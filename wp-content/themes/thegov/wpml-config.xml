@@ -1,0 +1,2733 @@
+<wpml-config>
+  <admin-texts>
+    <key name="thegov_set">
+      <key name="last_tab"/>
+      <key name="use_minify"/>
+      <key name="preloader"/>
+      <key name="preloader_background"/>
+      <key name="preloader_color_1"/>
+      <key name="search_style"/>
+      <key name="scroll_up"/>
+      <key name="scroll_up_arrow_color"/>
+      <key name="scroll_up_bg_color"/>
+      <key name="custom_js"/>
+      <key name="header_custom_js"/>
+      <key name="header_logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="logo_height_custom"/>
+      <key name="logo_height">
+        <key name="height"/>
+      </key>
+      <key name="logo_sticky">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="sticky_logo_height_custom"/>
+      <key name="sticky_logo_height">
+        <key name="height"/>
+      </key>
+      <key name="logo_mobile">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="mobile_logo_height_custom"/>
+      <key name="mobile_logo_height">
+        <key name="height"/>
+      </key>
+      <key name="logo_mobile_menu">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="mobile_logo_menu_height_custom"/>
+      <key name="mobile_logo_menu_height">
+        <key name="height"/>
+      </key>
+      <key name="header_def_js_preset"/>
+      <key name="bottom_header_layout">
+        <key name="items">
+          <key name="placebo"/>
+          <key name="html3"/>
+          <key name="html4"/>
+          <key name="html5"/>
+          <key name="html6"/>
+          <key name="html7"/>
+          <key name="html8"/>
+          <key name="delimiter2"/>
+          <key name="delimiter3"/>
+          <key name="delimiter4"/>
+          <key name="delimiter5"/>
+          <key name="delimiter6"/>
+          <key name="spacer7"/>
+          <key name="spacer8"/>
+          <key name="button2"/>
+          <key name="cart"/>
+          <key name="login"/>
+          <key name="wishlist"/>
+          <key name="spacer2"/>
+          <key name="side_panel"/>
+        </key>
+        <key name="Top Left area">
+          <key name="disable_row"/>
+          <key name="placebo"/>
+        </key>
+        <key name="Top Center area">
+          <key name="placebo"/>
+        </key>
+        <key name="Top Right area">
+          <key name="placebo"/>
+        </key>
+        <key name="Middle Left area">
+          <key name="disable_row"/>
+          <key name="placebo"/>
+          <key name="logo"/>
+        </key>
+        <key name="Middle Center area">
+          <key name="placebo"/>
+          <key name="menu"/>
+        </key>
+        <key name="Middle Right area">
+          <key name="placebo"/>
+          <key name="delimiter1"/>
+          <key name="wpml"/>
+          <key name="spacer1"/>
+          <key name="button1"/>
+          <key name="spacer5"/>
+        </key>
+        <key name="Bottom Left area">
+          <key name="disable_row"/>
+          <key name="placebo"/>
+          <key name="spacer4"/>
+          <key name="html2"/>
+        </key>
+        <key name="Bottom Center area">
+          <key name="placebo"/>
+          <key name="html1"/>
+        </key>
+        <key name="Bottom Right area">
+          <key name="placebo"/>
+          <key name="spacer6"/>
+          <key name="item_search"/>
+          <key name="spacer3"/>
+        </key>
+      </key>
+      <key name="bottom_header_spacer1">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_spacer2">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_spacer3">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_spacer4">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_spacer5">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_spacer6">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_spacer7">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_spacer8">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_item_search_custom"/>
+      <key name="bottom_header_item_search_color_txt">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_item_search_hover_color_txt">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_item_search_custom_sticky"/>
+      <key name="bottom_header_item_search_color_txt_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_item_search_hover_color_txt_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_cart_custom"/>
+      <key name="bottom_header_cart_color_txt">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_cart_hover_color_txt">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_cart_custom_sticky"/>
+      <key name="bottom_header_cart_color_txt_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_cart_hover_color_txt_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter1_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter1_width">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_delimiter1_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter1_margin">
+        <key name="margin-right"/>
+        <key name="margin-left"/>
+      </key>
+      <key name="bottom_header_delimiter1_sticky_custom"/>
+      <key name="bottom_header_delimiter1_sticky_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter1_sticky_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter2_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter2_width">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_delimiter2_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter2_margin">
+        <key name="margin-right"/>
+        <key name="margin-left"/>
+      </key>
+      <key name="bottom_header_delimiter2_sticky_custom"/>
+      <key name="bottom_header_delimiter2_sticky_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter2_sticky_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter3_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter3_width">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_delimiter3_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter3_margin">
+        <key name="margin-right"/>
+        <key name="margin-left"/>
+      </key>
+      <key name="bottom_header_delimiter3_sticky_custom"/>
+      <key name="bottom_header_delimiter3_sticky_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter3_sticky_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter4_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter4_width">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_delimiter4_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter4_margin">
+        <key name="margin-right"/>
+        <key name="margin-left"/>
+      </key>
+      <key name="bottom_header_delimiter4_sticky_custom"/>
+      <key name="bottom_header_delimiter4_sticky_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter4_sticky_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter5_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter5_width">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_delimiter5_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter5_margin">
+        <key name="margin-right"/>
+        <key name="margin-left"/>
+      </key>
+      <key name="bottom_header_delimiter5_sticky_custom"/>
+      <key name="bottom_header_delimiter5_sticky_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter5_sticky_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter6_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_delimiter6_width">
+        <key name="width"/>
+      </key>
+      <key name="bottom_header_delimiter6_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter6_margin">
+        <key name="margin-right"/>
+        <key name="margin-left"/>
+      </key>
+      <key name="bottom_header_delimiter6_sticky_custom"/>
+      <key name="bottom_header_delimiter6_sticky_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_delimiter6_sticky_height">
+        <key name="height"/>
+      </key>
+      <key name="bottom_header_button1_title"/>
+      <key name="bottom_header_button1_link"/>
+      <key name="bottom_header_button1_target"/>
+      <key name="bottom_header_button1_size"/>
+      <key name="bottom_header_button1_radius"/>
+      <key name="bottom_header_button1_custom"/>
+      <key name="bottom_header_button1_color_txt">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_hover_color_txt">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_hover_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_border">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_hover_border">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_custom_sticky"/>
+      <key name="bottom_header_button1_color_txt_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_hover_color_txt_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_bg_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_hover_bg_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_border_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button1_hover_border_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_title"/>
+      <key name="bottom_header_button2_link"/>
+      <key name="bottom_header_button2_target"/>
+      <key name="bottom_header_button2_size"/>
+      <key name="bottom_header_button2_radius"/>
+      <key name="bottom_header_button2_custom"/>
+      <key name="bottom_header_button2_color_txt">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_hover_color_txt">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_hover_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_border">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_hover_border">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_custom_sticky"/>
+      <key name="bottom_header_button2_color_txt_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_hover_color_txt_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_bg_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_hover_bg_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_border_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_button2_hover_border_sticky">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_bar_html1_editor"/>
+      <key name="bottom_header_bar_html2_editor"/>
+      <key name="bottom_header_bar_html3_editor"/>
+      <key name="bottom_header_bar_html4_editor"/>
+      <key name="bottom_header_bar_html5_editor"/>
+      <key name="bottom_header_bar_html6_editor"/>
+      <key name="bottom_header_bar_html7_editor"/>
+      <key name="bottom_header_bar_html8_editor"/>
+      <key name="bottom_header_side_panel_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_side_panel_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_side_panel_sticky_custom"/>
+      <key name="bottom_header_side_panel_sticky_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="bottom_header_side_panel_sticky_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_top_full_width"/>
+      <key name="header_top_max_width_custom"/>
+      <key name="header_top_max_width">
+        <key name="width"/>
+      </key>
+      <key name="header_top_height">
+        <key name="height"/>
+      </key>
+      <key name="header_top_background_image">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="header_top_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_top_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_top_bottom_border"/>
+      <key name="header_top_border_height">
+        <key name="height"/>
+      </key>
+      <key name="header_top_bottom_border_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_middle_full_width"/>
+      <key name="header_middle_max_width_custom"/>
+      <key name="header_middle_max_width">
+        <key name="width"/>
+      </key>
+      <key name="header_middle_height">
+        <key name="height"/>
+      </key>
+      <key name="header_middle_background_image">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="header_middle_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_middle_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_middle_bottom_border"/>
+      <key name="header_middle_border_height">
+        <key name="height"/>
+      </key>
+      <key name="header_middle_bottom_border_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_bottom_full_width"/>
+      <key name="header_bottom_max_width_custom"/>
+      <key name="header_bottom_max_width">
+        <key name="width"/>
+      </key>
+      <key name="header_bottom_height">
+        <key name="height"/>
+      </key>
+      <key name="header_bottom_background_image">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="header_bottom_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_bottom_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_bottom_bottom_border"/>
+      <key name="header_bottom_border_height">
+        <key name="height"/>
+      </key>
+      <key name="header_bottom_bottom_border_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_column_top_left_horz"/>
+      <key name="header_column_top_left_vert"/>
+      <key name="header_column_top_left_display"/>
+      <key name="header_column_top_center_horz"/>
+      <key name="header_column_top_center_vert"/>
+      <key name="header_column_top_center_display"/>
+      <key name="header_column_top_right_horz"/>
+      <key name="header_column_top_right_vert"/>
+      <key name="header_column_top_right_display"/>
+      <key name="header_column_middle_left_horz"/>
+      <key name="header_column_middle_left_vert"/>
+      <key name="header_column_middle_left_display"/>
+      <key name="header_column_middle_center_horz"/>
+      <key name="header_column_middle_center_vert"/>
+      <key name="header_column_middle_center_display"/>
+      <key name="header_column_middle_right_horz"/>
+      <key name="header_column_middle_right_vert"/>
+      <key name="header_column_middle_right_display"/>
+      <key name="header_column_bottom_left_horz"/>
+      <key name="header_column_bottom_left_vert"/>
+      <key name="header_column_bottom_left_display"/>
+      <key name="header_column_bottom_center_horz"/>
+      <key name="header_column_bottom_center_vert"/>
+      <key name="header_column_bottom_center_display"/>
+      <key name="header_column_bottom_right_horz"/>
+      <key name="header_column_bottom_right_vert"/>
+      <key name="header_column_bottom_right_display"/>
+      <key name="header_shadow"/>
+      <key name="header_on_bg"/>
+      <key name="lavalamp_active"/>
+      <key name="sub_menu_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="sub_menu_color"/>
+      <key name="header_sub_menu_bottom_border"/>
+      <key name="header_sub_menu_border_height">
+        <key name="height"/>
+      </key>
+      <key name="header_sub_menu_bottom_border_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_mobile_queris"/>
+      <key name="header_sticky"/>
+      <key name="header_sticky_color"/>
+      <key name="header_sticky_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_sticky_height">
+        <key name="height"/>
+      </key>
+      <key name="header_sticky_style"/>
+      <key name="header_sticky_border"/>
+      <key name="header_sticky_border_height">
+        <key name="height"/>
+      </key>
+      <key name="header_sticky_border_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="header_sticky_shadow"/>
+      <key name="sticky_header"/>
+      <key name="sticky_header_layout">
+        <key name="items">
+          <key name="placebo"/>
+          <key name="html1"/>
+          <key name="html2"/>
+          <key name="html3"/>
+          <key name="html4"/>
+          <key name="html5"/>
+          <key name="html6"/>
+          <key name="delimiter2"/>
+          <key name="delimiter3"/>
+          <key name="delimiter4"/>
+          <key name="delimiter5"/>
+          <key name="delimiter6"/>
+          <key name="spacer3"/>
+          <key name="spacer4"/>
+          <key name="spacer5"/>
+          <key name="spacer6"/>
+          <key name="side_panel"/>
+          <key name="cart"/>
+          <key name="login"/>
+          <key name="wishlist"/>
+        </key>
+        <key name="Left align side">
+          <key name="placebo"/>
+          <key name="spacer1"/>
+          <key name="logo"/>
+        </key>
+        <key name="Center align side">
+          <key name="placebo"/>
+          <key name="menu"/>
+        </key>
+        <key name="Right align side">
+          <key name="placebo"/>
+          <key name="wpml"/>
+          <key name="delimiter1"/>
+          <key name="item_search"/>
+          <key name="spacer2"/>
+        </key>
+      </key>
+      <key name="header_custom_sticky_full_width"/>
+      <key name="header_custom_sticky_max_width"/>
+      <key name="header_sticky_max_width">
+        <key name="width"/>
+      </key>
+      <key name="sticky_header_bar_html1_editor"/>
+      <key name="sticky_header_bar_html2_editor"/>
+      <key name="sticky_header_bar_html3_editor"/>
+      <key name="sticky_header_bar_html4_editor"/>
+      <key name="sticky_header_bar_html5_editor"/>
+      <key name="sticky_header_bar_html6_editor"/>
+      <key name="sticky_header_spacer1">
+        <key name="width"/>
+      </key>
+      <key name="sticky_header_spacer2">
+        <key name="width"/>
+      </key>
+      <key name="sticky_header_spacer3">
+        <key name="width"/>
+      </key>
+      <key name="sticky_header_spacer4">
+        <key name="width"/>
+      </key>
+      <key name="sticky_header_spacer5">
+        <key name="width"/>
+      </key>
+      <key name="sticky_header_spacer6">
+        <key name="width"/>
+      </key>
+      <key name="mobile_header"/>
+      <key name="mobile_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="mobile_color"/>
+      <key name="mobile_sub_menu_background">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="mobile_sub_menu_overlay">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="mobile_sub_menu_color"/>
+      <key name="header_mobile_height">
+        <key name="height"/>
+      </key>
+      <key name="mobile_over_content"/>
+      <key name="mobile_sticky"/>
+      <key name="mobile_position"/>
+      <key name="mobile_header_layout">
+        <key name="items">
+          <key name="placebo"/>
+          <key name="html1"/>
+          <key name="html2"/>
+          <key name="html3"/>
+          <key name="html4"/>
+          <key name="html5"/>
+          <key name="html6"/>
+          <key name="wpml"/>
+          <key name="spacer1"/>
+          <key name="spacer2"/>
+          <key name="spacer3"/>
+          <key name="spacer4"/>
+          <key name="spacer5"/>
+          <key name="spacer6"/>
+          <key name="side_panel"/>
+          <key name="cart"/>
+          <key name="login"/>
+          <key name="wishlist"/>
+        </key>
+        <key name="Left align side">
+          <key name="placebo"/>
+          <key name="menu"/>
+        </key>
+        <key name="Center align side">
+          <key name="placebo"/>
+          <key name="logo"/>
+        </key>
+        <key name="Right align side">
+          <key name="placebo"/>
+          <key name="item_search"/>
+        </key>
+      </key>
+      <key name="mobile_content_header_layout">
+        <key name="items">
+          <key name="placebo"/>
+          <key name="html1"/>
+          <key name="html2"/>
+          <key name="html3"/>
+          <key name="html4"/>
+          <key name="html5"/>
+          <key name="html6"/>
+          <key name="wpml"/>
+          <key name="spacer1"/>
+          <key name="spacer2"/>
+          <key name="spacer3"/>
+          <key name="spacer4"/>
+          <key name="spacer5"/>
+          <key name="spacer6"/>
+        </key>
+        <key name="Left align side">
+          <key name="placebo"/>
+          <key name="logo"/>
+          <key name="menu"/>
+          <key name="item_search"/>
+        </key>
+      </key>
+      <key name="mobile_header_bar_html1_editor"/>
+      <key name="mobile_header_bar_html2_editor"/>
+      <key name="mobile_header_bar_html3_editor"/>
+      <key name="mobile_header_bar_html4_editor"/>
+      <key name="mobile_header_bar_html5_editor"/>
+      <key name="mobile_header_bar_html6_editor"/>
+      <key name="mobile_header_spacer1">
+        <key name="width"/>
+      </key>
+      <key name="mobile_header_spacer2">
+        <key name="width"/>
+      </key>
+      <key name="mobile_header_spacer3">
+        <key name="width"/>
+      </key>
+      <key name="mobile_header_spacer4">
+        <key name="width"/>
+      </key>
+      <key name="mobile_header_spacer5">
+        <key name="width"/>
+      </key>
+      <key name="mobile_header_spacer6">
+        <key name="width"/>
+      </key>
+      <key name="page_title_switch"/>
+      <key name="page_title_bg_switch"/>
+      <key name="page_title_bg_image">
+        <key name="background-color"/>
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="page_title_height">
+        <key name="height"/>
+      </key>
+      <key name="page_title_padding">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="page_title_margin">
+        <key name="margin-bottom"/>
+      </key>
+      <key name="page_title_align"/>
+      <key name="page_title_breadcrumbs_switch"/>
+      <key name="page_title_breadcrumbs_block_switch"/>
+      <key name="page_title_breadcrumbs_align"/>
+      <key name="page_title_parallax"/>
+      <key name="page_title_parallax_speed"/>
+      <key name="page_title_font">
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="color"/>
+      </key>
+      <key name="page_title_breadcrumbs_font">
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="color"/>
+      </key>
+      <key name="page_title_resp_switch"/>
+      <key name="page_title_resp_resolution"/>
+      <key name="page_title_resp_height">
+        <key name="height"/>
+      </key>
+      <key name="page_title_resp_padding">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="page_title_resp_font">
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="color"/>
+      </key>
+      <key name="page_title_resp_breadcrumbs_switch"/>
+      <key name="page_title_resp_breadcrumbs_font">
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="color"/>
+      </key>
+      <key name="footer_switch"/>
+      <key name="footer_add_wave"/>
+      <key name="footer_wave_height">
+        <key name="height"/>
+      </key>
+      <key name="footer_content_type"/>
+      <key name="footer_page_select"/>
+      <key name="widget_columns"/>
+      <key name="widget_columns_2"/>
+      <key name="widget_columns_3"/>
+      <key name="footer_spacing">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+      </key>
+      <key name="footer_full_width"/>
+      <key name="footer_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="footer_align"/>
+      <key name="footer_bg_color"/>
+      <key name="footer_heading_color"/>
+      <key name="footer_text_color"/>
+      <key name="footer_add_border"/>
+      <key name="footer_border_color"/>
+      <key name="copyright_switch"/>
+      <key name="copyright_editor"/>
+      <key name="copyright_text_color"/>
+      <key name="copyright_bg_color"/>
+      <key name="copyright_spacing">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="post_archive_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="blog_list_sidebar_layout"/>
+      <key name="blog_list_sidebar_def"/>
+      <key name="blog_list_sidebar_def_width"/>
+      <key name="blog_list_sidebar_sticky"/>
+      <key name="blog_list_sidebar_gap"/>
+      <key name="blog_list_columns"/>
+      <key name="blog_list_likes"/>
+      <key name="blog_list_share"/>
+      <key name="blog_list_hide_media"/>
+      <key name="blog_list_hide_title"/>
+      <key name="blog_list_hide_content"/>
+      <key name="blog_post_listing_content"/>
+      <key name="blog_list_letter_count"/>
+      <key name="blog_list_read_more"/>
+      <key name="blog_list_meta"/>
+      <key name="blog_list_meta_author"/>
+      <key name="blog_list_meta_comments"/>
+      <key name="blog_list_meta_categories"/>
+      <key name="blog_list_meta_date"/>
+      <key name="blog_title_conditional"/>
+      <key name="post_single_page_title_text"/>
+      <key name="post_single_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="single_type_layout"/>
+      <key name="single_padding_layout_3">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="featured_image_type"/>
+      <key name="featured_image_replace">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="single_apply_animation"/>
+      <key name="single_sidebar_layout"/>
+      <key name="single_sidebar_def"/>
+      <key name="single_sidebar_def_width"/>
+      <key name="single_sidebar_sticky"/>
+      <key name="single_sidebar_gap"/>
+      <key name="single_likes"/>
+      <key name="single_views"/>
+      <key name="single_share"/>
+      <key name="single_author_info"/>
+      <key name="single_meta"/>
+      <key name="single_meta_author"/>
+      <key name="single_meta_comments"/>
+      <key name="single_meta_categories"/>
+      <key name="single_meta_date"/>
+      <key name="single_meta_tags"/>
+      <key name="single_related_posts"/>
+      <key name="blog_title_r"/>
+      <key name="blog_column_r"/>
+      <key name="blog_number_r"/>
+      <key name="blog_carousel_r"/>
+      <key name="portfolio_archive_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="portfolio_list_sidebar_layout"/>
+      <key name="portfolio_list_sidebar_def"/>
+      <key name="portfolio_list_columns"/>
+      <key name="portfolio_slug"/>
+      <key name="portfolio_list_show_filter"/>
+      <key name="portfolio_list_show_title"/>
+      <key name="portfolio_list_show_content"/>
+      <key name="portfolio_list_show_cat"/>
+      <key name="portfolio_title_conditional"/>
+      <key name="portfolio_single_page_title_text"/>
+      <key name="portfolio_single_title_align"/>
+      <key name="portfolio_single_breadcrumbs_align"/>
+      <key name="portfolio_single_breadcrumbs_block_switch"/>
+      <key name="portfolio_single_title_bg_switch"/>
+      <key name="portfolio_single_page_title_bg_image">
+        <key name="background-color"/>
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="portfolio_single_page_title_padding">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="portfolio_single_page_title_margin">
+        <key name="margin-bottom"/>
+      </key>
+      <key name="portfolio_single_type_layout"/>
+      <key name="portfolio_single_align"/>
+      <key name="portfolio_single_padding">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="portfolio_parallax"/>
+      <key name="portfolio_parallax_speed"/>
+      <key name="portfolio_single_resp"/>
+      <key name="portfolio_single_resp_breakpoint"/>
+      <key name="portfolio_single_resp_padding">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="portfolio_single_sidebar_layout"/>
+      <key name="portfolio_single_sidebar_def"/>
+      <key name="portfolio_single_sidebar_def_width"/>
+      <key name="portfolio_single_sidebar_sticky"/>
+      <key name="portfolio_single_sidebar_gap"/>
+      <key name="portfolio_above_content_cats"/>
+      <key name="portfolio_above_content_share"/>
+      <key name="portfolio_single_meta_likes"/>
+      <key name="portfolio_single_meta"/>
+      <key name="portfolio_single_meta_author"/>
+      <key name="portfolio_single_meta_comments"/>
+      <key name="portfolio_single_meta_categories"/>
+      <key name="portfolio_single_meta_date"/>
+      <key name="portfolio_related_switch"/>
+      <key name="pf_title_r"/>
+      <key name="pf_carousel_r"/>
+      <key name="pf_column_r"/>
+      <key name="pf_number_r"/>
+      <key name="team_slug"/>
+      <key name="team_single_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="team_title_conditional"/>
+      <key name="team_single_page_title_text"/>
+      <key name="404_page_main_bg_image">
+        <key name="background-color"/>
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="404_show_header"/>
+      <key name="404_show_footer"/>
+      <key name="404_page_title_switcher"/>
+      <key name="404_custom_title_switch"/>
+      <key name="404_page_title_text"/>
+      <key name="404_title_bg_switch"/>
+      <key name="404_page_title_bg_image">
+        <key name="background-color"/>
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="404_page_title_padding">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="404_page_title_margin">
+        <key name="margin-bottom"/>
+      </key>
+      <key name="side_panel_content_type"/>
+      <key name="side_panel_spacing">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+      </key>
+      <key name="side_panel_title_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="side_panel_text_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="side_panel_bg">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="side_panel_text_alignment"/>
+      <key name="side_panel_width">
+        <key name="width"/>
+      </key>
+      <key name="side_panel_position"/>
+      <key name="sidebars">
+        <key name="0"/>
+      </key>
+      <key name="page_sidebar_layout"/>
+      <key name="page_sidebar_def"/>
+      <key name="page_sidebar_def_width"/>
+      <key name="page_sidebar_sticky"/>
+      <key name="page_sidebar_gap"/>
+      <key name="show_soc_icon_page"/>
+      <key name="soc_icon_style"/>
+      <key name="soc_icon_position"/>
+      <key name="soc_icon_offset">
+        <key name="margin-bottom"/>
+      </key>
+      <key name="soc_icon_facebook"/>
+      <key name="soc_icon_twitter"/>
+      <key name="soc_icon_linkedin"/>
+      <key name="soc_icon_pinterest"/>
+      <key name="soc_icon_tumblr"/>
+      <key name="add_custom_share"/>
+      <key name="select_custom_share_icons-1"/>
+      <key name="select_custom_share_text-1"/>
+      <key name="select_custom_share_icons-2"/>
+      <key name="select_custom_share_text-2"/>
+      <key name="select_custom_share_icons-3"/>
+      <key name="select_custom_share_text-3"/>
+      <key name="select_custom_share_icons-4"/>
+      <key name="select_custom_share_text-4"/>
+      <key name="select_custom_share_icons-5"/>
+      <key name="select_custom_share_text-5"/>
+      <key name="select_custom_share_icons-6"/>
+      <key name="select_custom_share_text-6"/>
+      <key name="select_custom_share_icons-7"/>
+      <key name="select_custom_share_text-7"/>
+      <key name="select_custom_share_icons-8"/>
+      <key name="select_custom_share_text-8"/>
+      <key name="select_custom_share_icons-9"/>
+      <key name="select_custom_share_text-9"/>
+      <key name="select_custom_share_icons-10"/>
+      <key name="select_custom_share_text-10"/>
+      <key name="theme-custom-color"/>
+      <key name="body-background-color"/>
+      <key name="main-font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="color"/>
+        <key name="font-weight-multi"/>
+        <key name="font-style-multi"/>
+      </key>
+      <key name="header-font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="color"/>
+        <key name="font-weight-multi"/>
+        <key name="font-style-multi"/>
+      </key>
+      <key name="menu-font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="sub-menu-font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="header-h1">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="text-transform"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="letter-spacing"/>
+      </key>
+      <key name="header-h2">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="text-transform"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="letter-spacing"/>
+      </key>
+      <key name="header-h3">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="text-transform"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="letter-spacing"/>
+      </key>
+      <key name="header-h4">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="text-transform"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="letter-spacing"/>
+      </key>
+      <key name="header-h5">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="text-transform"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="letter-spacing"/>
+      </key>
+      <key name="header-h6">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="text-transform"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="letter-spacing"/>
+      </key>
+      <key name="events_title_conditional"/>
+      <key name="events_single_page_title_text"/>
+      <key name="events_single_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="events_single_type_layout"/>
+      <key name="events_single_padding_layout_3">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="events_single_apply_animation"/>
+      <key name="events_featured_image_type"/>
+      <key name="events_featured_image_replace">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="events_single_sidebar_layout"/>
+      <key name="events_single_sidebar_def"/>
+      <key name="events_single_sidebar_def_width"/>
+      <key name="events_single_sidebar_sticky"/>
+      <key name="events_single_sidebar_gap"/>
+      <key name="single_events_likes"/>
+      <key name="single_events_views"/>
+      <key name="single_events_share"/>
+      <key name="single_events_meta"/>
+      <key name="single_events_meta_author"/>
+      <key name="single_events_meta_comments"/>
+      <key name="single_events_meta_categories"/>
+      <key name="single_events_meta_date"/>
+      <key name="single_events_meta_tags"/>
+      <key name="single_events_related_posts"/>
+      <key name="events_title_r"/>
+      <key name="events_column_r"/>
+      <key name="events_number_r"/>
+      <key name="events_carousel_r"/>
+      <key name="locations_title_conditional"/>
+      <key name="locations_single_page_title_text"/>
+      <key name="locations_single_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="locations_single_type_layout"/>
+      <key name="locations_single_padding_layout_3">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="locations_single_apply_animation"/>
+      <key name="locations_featured_image_type"/>
+      <key name="locations_featured_image_replace">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="locations_single_sidebar_layout"/>
+      <key name="locations_single_sidebar_def"/>
+      <key name="locations_single_sidebar_def_width"/>
+      <key name="locations_single_sidebar_sticky"/>
+      <key name="locations_single_sidebar_gap"/>
+      <key name="single_locations_likes"/>
+      <key name="single_locations_views"/>
+      <key name="single_locations_share"/>
+      <key name="single_locations_meta"/>
+      <key name="single_locations_meta_author"/>
+      <key name="single_locations_meta_comments"/>
+      <key name="single_locations_meta_date"/>
+      <key name="single_locations_related_posts"/>
+      <key name="locations_title_r"/>
+      <key name="locations_column_r"/>
+      <key name="locations_number_r"/>
+      <key name="locations_carousel_r"/>
+      <key name="shop_catalog_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="shop_catalog_sidebar_layout"/>
+      <key name="shop_catalog_sidebar_def"/>
+      <key name="shop_catalog_sidebar_def_width"/>
+      <key name="shop_catalog_sidebar_sticky"/>
+      <key name="shop_catalog_sidebar_gap"/>
+      <key name="shop_column"/>
+      <key name="shop_products_per_page"/>
+      <key name="use_animation_shop"/>
+      <key name="shop_catalog_animation_style"/>
+      <key name="shop_title_conditional"/>
+      <key name="shop_single_page_title_text"/>
+      <key name="shop_single_title_align"/>
+      <key name="shop_single_breadcrumbs_block_switch"/>
+      <key name="shop_single_breadcrumbs_align"/>
+      <key name="shop_single_title_bg_switch"/>
+      <key name="shop_single_page_title_bg_image">
+        <key name="background-color"/>
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="shop_single_page_title_padding">
+        <key name="padding-top"/>
+        <key name="padding-bottom"/>
+      </key>
+      <key name="shop_single_page_title_margin">
+        <key name="margin-bottom"/>
+      </key>
+      <key name="shop_single_page_title_border_switch"/>
+      <key name="shop_single_page_title_border_color">
+        <key name="color"/>
+        <key name="alpha"/>
+        <key name="rgba"/>
+      </key>
+      <key name="shop_single_sidebar_layout"/>
+      <key name="shop_single_sidebar_def"/>
+      <key name="shop_single_sidebar_def_width"/>
+      <key name="shop_single_sidebar_sticky"/>
+      <key name="shop_single_sidebar_gap"/>
+      <key name="shop_single_share"/>
+      <key name="shop_related_columns"/>
+      <key name="shop_r_products_per_page"/>
+      <key name="shop_cart_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="shop_checkout_page_title_bg_image">
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+    </key>
+    <key name="thegov_set_preset">
+      <key name="default">
+        <key name="Default">
+          <key name="header_def_js_preset"/>
+          <key name="opt-js-preset"/>
+          <key name="bottom_header_layout">
+            <key name="items">
+              <key name="placebo"/>
+              <key name="html6"/>
+              <key name="html7"/>
+              <key name="html8"/>
+              <key name="delimiter1"/>
+              <key name="delimiter2"/>
+              <key name="delimiter3"/>
+              <key name="delimiter4"/>
+              <key name="delimiter6"/>
+              <key name="button1"/>
+              <key name="cart"/>
+              <key name="login"/>
+              <key name="wishlist"/>
+              <key name="side_panel"/>
+            </key>
+            <key name="Top Left area">
+              <key name="disable_row"/>
+              <key name="placebo"/>
+              <key name="spacer8"/>
+              <key name="html3"/>
+              <key name="spacer7"/>
+              <key name="html4"/>
+              <key name="spacer6"/>
+              <key name="html5"/>
+            </key>
+            <key name="Top Center area">
+              <key name="placebo"/>
+            </key>
+            <key name="Top Right area">
+              <key name="placebo"/>
+              <key name="html1"/>
+              <key name="spacer3"/>
+              <key name="html2"/>
+              <key name="spacer4"/>
+            </key>
+            <key name="Middle Left area">
+              <key name="disable_row"/>
+              <key name="placebo"/>
+              <key name="spacer2"/>
+              <key name="logo"/>
+            </key>
+            <key name="Middle Center area">
+              <key name="placebo"/>
+              <key name="menu"/>
+            </key>
+            <key name="Middle Right area">
+              <key name="placebo"/>
+              <key name="wpml"/>
+              <key name="delimiter5"/>
+              <key name="item_search"/>
+              <key name="spacer1"/>
+              <key name="button2"/>
+              <key name="spacer5"/>
+            </key>
+            <key name="Bottom Left area">
+              <key name="disable_row"/>
+              <key name="placebo"/>
+            </key>
+            <key name="Bottom Center area">
+              <key name="placebo"/>
+            </key>
+            <key name="Bottom Right area">
+              <key name="placebo"/>
+            </key>
+          </key>
+          <key name="bottom_header_spacer1">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer2">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer3">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer4">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer5">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer6">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer7">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer8">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_item_search_custom"/>
+          <key name="bottom_header_item_search_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_item_search_hover_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_item_search_custom_sticky"/>
+          <key name="bottom_header_item_search_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_item_search_hover_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_cart_custom"/>
+          <key name="bottom_header_cart_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_cart_hover_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_cart_custom_sticky"/>
+          <key name="bottom_header_cart_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_cart_hover_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter1_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter1_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter1_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter1_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter1_sticky_custom"/>
+          <key name="bottom_header_delimiter1_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter1_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter2_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter2_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter2_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter2_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter2_sticky_custom"/>
+          <key name="bottom_header_delimiter2_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter2_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter3_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter3_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter3_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter3_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter3_sticky_custom"/>
+          <key name="bottom_header_delimiter3_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter3_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter4_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter4_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter4_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter4_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter4_sticky_custom"/>
+          <key name="bottom_header_delimiter4_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter4_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter5_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter5_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter5_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter5_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter5_sticky_custom"/>
+          <key name="bottom_header_delimiter5_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter5_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter6_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter6_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter6_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter6_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter6_sticky_custom"/>
+          <key name="bottom_header_delimiter6_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter6_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_button1_title"/>
+          <key name="bottom_header_button1_link"/>
+          <key name="bottom_header_button1_target"/>
+          <key name="bottom_header_button1_size"/>
+          <key name="bottom_header_button1_radius"/>
+          <key name="bottom_header_button1_custom"/>
+          <key name="bottom_header_button1_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_border">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_border">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_custom_sticky"/>
+          <key name="bottom_header_button1_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_bg_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_bg_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_border_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_border_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_title"/>
+          <key name="bottom_header_button2_link"/>
+          <key name="bottom_header_button2_target"/>
+          <key name="bottom_header_button2_size"/>
+          <key name="bottom_header_button2_radius"/>
+          <key name="bottom_header_button2_custom"/>
+          <key name="bottom_header_button2_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_border">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_border">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_custom_sticky"/>
+          <key name="bottom_header_button2_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_bg_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_bg_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_border_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_border_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_bar_html1_editor"/>
+          <key name="bottom_header_bar_html2_editor"/>
+          <key name="bottom_header_bar_html3_editor"/>
+          <key name="bottom_header_bar_html4_editor"/>
+          <key name="bottom_header_bar_html5_editor"/>
+          <key name="bottom_header_bar_html6_editor"/>
+          <key name="bottom_header_bar_html7_editor"/>
+          <key name="bottom_header_bar_html8_editor"/>
+          <key name="bottom_header_side_panel_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_side_panel_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_side_panel_sticky_custom"/>
+          <key name="bottom_header_side_panel_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_side_panel_sticky_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_top_full_width"/>
+          <key name="header_top_max_width_custom"/>
+          <key name="header_top_max_width">
+            <key name="width"/>
+          </key>
+          <key name="header_top_height">
+            <key name="height"/>
+          </key>
+          <key name="header_top_background_image">
+            <key name="url"/>
+            <key name="id"/>
+            <key name="height"/>
+            <key name="width"/>
+            <key name="thumbnail"/>
+          </key>
+          <key name="header_top_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_top_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_top_bottom_border"/>
+          <key name="header_top_border_height">
+            <key name="height"/>
+          </key>
+          <key name="header_top_bottom_border_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_middle_full_width"/>
+          <key name="header_middle_max_width_custom"/>
+          <key name="header_middle_max_width">
+            <key name="width"/>
+          </key>
+          <key name="header_middle_height">
+            <key name="height"/>
+          </key>
+          <key name="header_middle_background_image">
+            <key name="url"/>
+            <key name="id"/>
+            <key name="height"/>
+            <key name="width"/>
+            <key name="thumbnail"/>
+          </key>
+          <key name="header_middle_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_middle_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_middle_bottom_border"/>
+          <key name="header_middle_border_height">
+            <key name="height"/>
+          </key>
+          <key name="header_middle_bottom_border_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_bottom_full_width"/>
+          <key name="header_bottom_max_width_custom"/>
+          <key name="header_bottom_max_width">
+            <key name="width"/>
+          </key>
+          <key name="header_bottom_height">
+            <key name="height"/>
+          </key>
+          <key name="header_bottom_background_image">
+            <key name="url"/>
+            <key name="id"/>
+            <key name="height"/>
+            <key name="width"/>
+            <key name="thumbnail"/>
+          </key>
+          <key name="header_bottom_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_bottom_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_bottom_bottom_border"/>
+          <key name="header_bottom_border_height">
+            <key name="height"/>
+          </key>
+          <key name="header_bottom_bottom_border_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_column_top_left_horz"/>
+          <key name="header_column_top_left_vert"/>
+          <key name="header_column_top_left_display"/>
+          <key name="header_column_top_center_horz"/>
+          <key name="header_column_top_center_vert"/>
+          <key name="header_column_top_center_display"/>
+          <key name="header_column_top_right_horz"/>
+          <key name="header_column_top_right_vert"/>
+          <key name="header_column_top_right_display"/>
+          <key name="header_column_middle_left_horz"/>
+          <key name="header_column_middle_left_vert"/>
+          <key name="header_column_middle_left_display"/>
+          <key name="header_column_middle_center_horz"/>
+          <key name="header_column_middle_center_vert"/>
+          <key name="header_column_middle_center_display"/>
+          <key name="header_column_middle_right_horz"/>
+          <key name="header_column_middle_right_vert"/>
+          <key name="header_column_middle_right_display"/>
+          <key name="header_column_bottom_left_horz"/>
+          <key name="header_column_bottom_left_vert"/>
+          <key name="header_column_bottom_left_display"/>
+          <key name="header_column_bottom_center_horz"/>
+          <key name="header_column_bottom_center_vert"/>
+          <key name="header_column_bottom_center_display"/>
+          <key name="header_column_bottom_right_horz"/>
+          <key name="header_column_bottom_right_vert"/>
+          <key name="header_column_bottom_right_display"/>
+          <key name="header_shadow"/>
+          <key name="header_on_bg"/>
+          <key name="lavalamp_active"/>
+          <key name="sub_menu_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="sub_menu_color"/>
+          <key name="header_sub_menu_bottom_border"/>
+          <key name="header_sub_menu_border_height">
+            <key name="height"/>
+          </key>
+          <key name="header_sub_menu_bottom_border_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_mobile_queris"/>
+          <key name="redux-backup"/>
+        </key>
+        <key name="Home 1">
+          <key name="header_def_js_preset"/>
+          <key name="bottom_header_layout">
+            <key name="items">
+              <key name="placebo"/>
+              <key name="html3"/>
+              <key name="html4"/>
+              <key name="html5"/>
+              <key name="html6"/>
+              <key name="html7"/>
+              <key name="html8"/>
+              <key name="delimiter2"/>
+              <key name="delimiter3"/>
+              <key name="delimiter4"/>
+              <key name="delimiter5"/>
+              <key name="delimiter6"/>
+              <key name="spacer7"/>
+              <key name="spacer8"/>
+              <key name="button2"/>
+              <key name="cart"/>
+              <key name="login"/>
+              <key name="wishlist"/>
+              <key name="spacer2"/>
+              <key name="side_panel"/>
+            </key>
+            <key name="Top Left area">
+              <key name="disable_row"/>
+              <key name="placebo"/>
+            </key>
+            <key name="Top Center area">
+              <key name="placebo"/>
+            </key>
+            <key name="Top Right area">
+              <key name="placebo"/>
+            </key>
+            <key name="Middle Left area">
+              <key name="disable_row"/>
+              <key name="placebo"/>
+              <key name="logo"/>
+            </key>
+            <key name="Middle Center area">
+              <key name="placebo"/>
+              <key name="menu"/>
+            </key>
+            <key name="Middle Right area">
+              <key name="placebo"/>
+              <key name="delimiter1"/>
+              <key name="wpml"/>
+              <key name="spacer1"/>
+              <key name="button1"/>
+              <key name="spacer5"/>
+            </key>
+            <key name="Bottom Left area">
+              <key name="disable_row"/>
+              <key name="placebo"/>
+              <key name="spacer4"/>
+              <key name="html2"/>
+            </key>
+            <key name="Bottom Center area">
+              <key name="placebo"/>
+              <key name="html1"/>
+            </key>
+            <key name="Bottom Right area">
+              <key name="placebo"/>
+              <key name="spacer6"/>
+              <key name="item_search"/>
+              <key name="spacer3"/>
+            </key>
+          </key>
+          <key name="bottom_header_spacer1">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer2">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer3">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer4">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer5">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer6">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer7">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_spacer8">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_item_search_custom"/>
+          <key name="bottom_header_item_search_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_item_search_hover_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_item_search_custom_sticky"/>
+          <key name="bottom_header_item_search_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_item_search_hover_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_cart_custom"/>
+          <key name="bottom_header_cart_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_cart_hover_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_cart_custom_sticky"/>
+          <key name="bottom_header_cart_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_cart_hover_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter1_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter1_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter1_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter1_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter1_sticky_custom"/>
+          <key name="bottom_header_delimiter1_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter1_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter2_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter2_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter2_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter2_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter2_sticky_custom"/>
+          <key name="bottom_header_delimiter2_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter2_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter3_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter3_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter3_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter3_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter3_sticky_custom"/>
+          <key name="bottom_header_delimiter3_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter3_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter4_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter4_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter4_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter4_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter4_sticky_custom"/>
+          <key name="bottom_header_delimiter4_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter4_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter5_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter5_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter5_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter5_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter5_sticky_custom"/>
+          <key name="bottom_header_delimiter5_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter5_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter6_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_delimiter6_width">
+            <key name="width"/>
+          </key>
+          <key name="bottom_header_delimiter6_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter6_margin">
+            <key name="margin-right"/>
+            <key name="margin-left"/>
+          </key>
+          <key name="bottom_header_delimiter6_sticky_custom"/>
+          <key name="bottom_header_delimiter6_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_delimiter6_sticky_height">
+            <key name="height"/>
+          </key>
+          <key name="bottom_header_button1_title"/>
+          <key name="bottom_header_button1_link"/>
+          <key name="bottom_header_button1_target"/>
+          <key name="bottom_header_button1_size"/>
+          <key name="bottom_header_button1_radius"/>
+          <key name="bottom_header_button1_custom"/>
+          <key name="bottom_header_button1_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_border">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_border">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_custom_sticky"/>
+          <key name="bottom_header_button1_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_bg_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_bg_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_border_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button1_hover_border_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_title"/>
+          <key name="bottom_header_button2_link"/>
+          <key name="bottom_header_button2_target"/>
+          <key name="bottom_header_button2_size"/>
+          <key name="bottom_header_button2_radius"/>
+          <key name="bottom_header_button2_custom"/>
+          <key name="bottom_header_button2_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_color_txt">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_bg">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_border">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_border">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_custom_sticky"/>
+          <key name="bottom_header_button2_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_color_txt_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_bg_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_bg_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_border_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_button2_hover_border_sticky">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_bar_html1_editor"/>
+          <key name="bottom_header_bar_html2_editor"/>
+          <key name="bottom_header_bar_html3_editor"/>
+          <key name="bottom_header_bar_html4_editor"/>
+          <key name="bottom_header_bar_html5_editor"/>
+          <key name="bottom_header_bar_html6_editor"/>
+          <key name="bottom_header_bar_html7_editor"/>
+          <key name="bottom_header_bar_html8_editor"/>
+          <key name="bottom_header_side_panel_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_side_panel_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_side_panel_sticky_custom"/>
+          <key name="bottom_header_side_panel_sticky_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="bottom_header_side_panel_sticky_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_top_full_width"/>
+          <key name="header_top_max_width_custom"/>
+          <key name="header_top_max_width">
+            <key name="width"/>
+          </key>
+          <key name="header_top_height">
+            <key name="height"/>
+          </key>
+          <key name="header_top_background_image">
+            <key name="url"/>
+            <key name="id"/>
+            <key name="height"/>
+            <key name="width"/>
+            <key name="thumbnail"/>
+          </key>
+          <key name="header_top_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_top_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_top_bottom_border"/>
+          <key name="header_top_border_height">
+            <key name="height"/>
+          </key>
+          <key name="header_top_bottom_border_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_middle_full_width"/>
+          <key name="header_middle_max_width_custom"/>
+          <key name="header_middle_max_width">
+            <key name="width"/>
+          </key>
+          <key name="header_middle_height">
+            <key name="height"/>
+          </key>
+          <key name="header_middle_background_image">
+            <key name="url"/>
+            <key name="id"/>
+            <key name="height"/>
+            <key name="width"/>
+            <key name="thumbnail"/>
+          </key>
+          <key name="header_middle_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_middle_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_middle_bottom_border"/>
+          <key name="header_middle_border_height">
+            <key name="height"/>
+          </key>
+          <key name="header_middle_bottom_border_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_bottom_full_width"/>
+          <key name="header_bottom_max_width_custom"/>
+          <key name="header_bottom_max_width">
+            <key name="width"/>
+          </key>
+          <key name="header_bottom_height">
+            <key name="height"/>
+          </key>
+          <key name="header_bottom_background_image">
+            <key name="url"/>
+            <key name="id"/>
+            <key name="height"/>
+            <key name="width"/>
+            <key name="thumbnail"/>
+          </key>
+          <key name="header_bottom_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_bottom_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_bottom_bottom_border"/>
+          <key name="header_bottom_border_height">
+            <key name="height"/>
+          </key>
+          <key name="header_bottom_bottom_border_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_column_top_left_horz"/>
+          <key name="header_column_top_left_vert"/>
+          <key name="header_column_top_left_display"/>
+          <key name="header_column_top_center_horz"/>
+          <key name="header_column_top_center_vert"/>
+          <key name="header_column_top_center_display"/>
+          <key name="header_column_top_right_horz"/>
+          <key name="header_column_top_right_vert"/>
+          <key name="header_column_top_right_display"/>
+          <key name="header_column_middle_left_horz"/>
+          <key name="header_column_middle_left_vert"/>
+          <key name="header_column_middle_left_display"/>
+          <key name="header_column_middle_center_horz"/>
+          <key name="header_column_middle_center_vert"/>
+          <key name="header_column_middle_center_display"/>
+          <key name="header_column_middle_right_horz"/>
+          <key name="header_column_middle_right_vert"/>
+          <key name="header_column_middle_right_display"/>
+          <key name="header_column_bottom_left_horz"/>
+          <key name="header_column_bottom_left_vert"/>
+          <key name="header_column_bottom_left_display"/>
+          <key name="header_column_bottom_center_horz"/>
+          <key name="header_column_bottom_center_vert"/>
+          <key name="header_column_bottom_center_display"/>
+          <key name="header_column_bottom_right_horz"/>
+          <key name="header_column_bottom_right_vert"/>
+          <key name="header_column_bottom_right_display"/>
+          <key name="header_shadow"/>
+          <key name="header_on_bg"/>
+          <key name="lavalamp_active"/>
+          <key name="sub_menu_background">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="sub_menu_color"/>
+          <key name="header_sub_menu_bottom_border"/>
+          <key name="header_sub_menu_border_height">
+            <key name="height"/>
+          </key>
+          <key name="header_sub_menu_bottom_border_color">
+            <key name="color"/>
+            <key name="alpha"/>
+            <key name="rgba"/>
+          </key>
+          <key name="header_mobile_queris"/>
+          <key name="opt-js-preset"/>
+          <key name="redux-backup"/>
+        </key>
+      </key>
+    </key>
+  </admin-texts>
+</wpml-config>

@@ -1,0 +1,408 @@
+/* ==================== ##Color Styles ==================== */
+
+a,
+a:hover .wgl-icon,
+a.wgl-icon:hover,
+body ol > li:before,
+button,
+button:focus, button:active,
+h3#reply-title a:hover,
+#comments > h3 span,
+.header-icon,
+.header-link:hover,
+.primary-nav > ul > li.current-menu-item > a,
+.primary-nav > ul > li.current-menu-item > a > span > .menu-item_plus:before,
+.primary-nav > ul > li.current_page_item > a,
+.primary-nav > ul > li.current_page_item > a > span > .menu-item_plus:before,
+.primary-nav > ul > li.current-menu-ancestor > a,
+.primary-nav > ul > li.current-menu-ancestor > a  > span > .menu-item_plus:before,
+.primary-nav > ul > li.current-menu-parent > a,
+.primary-nav > ul > li.current-menu-parent > a > span > .menu-item_plus:before,
+.primary-nav > ul > li.current_page_parent > a,
+.primary-nav > ul > li.current_page_parent > a > span > .menu-item_plus:before,
+.primary-nav > ul > li.current_page_ancestor > a,
+.primary-nav > ul > li.current_page_ancestor > a > span > .menu-item_plus:before,
+.primary-nav > ul > li:hover > a,
+.primary-nav > ul > li:hover > a  > span > .menu-item_plus:before,
+.mobile_nav_wrapper .primary-nav ul li ul .menu-item.current-menu-item > a,
+.mobile_nav_wrapper .primary-nav ul ul li.menu-item.current-menu-ancestor > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current-menu-item > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current_page_item > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current-menu-ancestor > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current-menu-parent > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current_page_parent > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current_page_ancestor > a,
+.author-info_social-wrapper,
+.blog-post_link:before,
+.blog-post_title i,
+.blog-style-standard .blog-post:hover .blog-post_wrapper .blog-post_meta_info .meta-wrapper span,
+.blog-post_link>.link_post:hover,
+.blog-post.format-standard.link .blog-post_title:before,
+.blog-post_title a:hover,
+.post_featured_bg .meta-wrapper .comments_post a:hover,
+.post_featured_bg .meta-wrapper a:hover,
+.post_featured_bg .blog-post_meta-wrap .wgl-likes:hover .sl-icon,
+.post_featured_bg .blog-post_meta-wrap .wgl-likes:hover .sl-count,
+.blog-style-hero .blog-post_title a:hover,
+.calendar_wrap thead,
+.copyright a:hover,
+.comment_author_says a:hover,
+.thegov_submit_wrapper:hover > i,
+.thegov_custom_button i,
+.thegov_custom_text a,
+.thegov_module_button .wgl_button_link:hover,
+.thegov_module_button.effect_3d .link_wrapper,
+.thegov_module_counter .counter_icon,
+.thegov_module_demo_item .di_button a:hover,
+.thegov_module_demo_item .di_title_wrap a:hover .di_title,
+.thegov_module_demo_item .di_title-wrap .di_subtitle,
+.thegov_module_social .soc_icon:hover,
+.thegov_twitter a,
+.thegov_module_testimonials.type_author_top_inline .testimonials_meta_wrap:after,
+.thegov_module_testimonials .testimonials_status,
+.thegov_module_circuit_services .services_subtitle,
+.thegov_module_circuit_services .services_item-icon,
+.thegov_module_flipbox .flipbox_front .flipbox_front_content,
+.thegov_module_services_3 .services_icon_wrapper,
+.thegov_module_services_4 .services_icon,
+.thegov_module_services_4:hover .services_number,
+.load_more_works:hover,
+.header_search .header_search-button > i:hover,
+.header_search-field .search-form:after,
+.mc_form_inside #mc_signup_submit:hover,
+.share_link span.fa:hover, 
+.share_post span.fa:hover,
+.share_post-container,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.single_team_page .team-info_wrapper .team-info_item a:hover,
+.single-member-page .member-icon:hover,
+.single-member-page .team-link:hover,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.single_team_page .team-info_icons a:hover,
+.single-team .single_team_page .team-info_item.team-department span,
+.team-icons .member-icon:hover,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.vc_wp_custommenu .menu .menu-item.current-menu-ancestor > a,
+.wpml-ls a:hover,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language:hover > a,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language a:hover,
+.wgl-container ul li:before,
+.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_subtitle,
+.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_subtitle,
+.wgl_portfolio_category-wrapper a:hover,
+.single.related_posts .blog-post_title a:hover,
+.wgl_module_team .team-department,
+.wgl_module_team .team-meta_info .team-counter,
+.wgl_module_team .team-since,
+.wgl_module_team .team-item_info .team-item_titles .team-title a:hover,
+.wgl_module_team .team-item_info .team-info_icons .team-icon a:hover,
+.wgl-icon:hover,
+.wgl-theme-color,
+.wgl-portfolio-item_wrapper .portfolio_link-icon:hover,
+.wgl-portfolio-item_corners,
+.wgl-portfolio-item_cats,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_meta span a:hover,
+.under_image .wgl-portfolio-item_title .title:hover a,
+.wgl-social-share_pages.hovered_style ul li a:hover,
+.thegov_module_time_line_horizontal .tlh_check_wrap,
+.thegov_module_testimonials .testimonials_item:before,
+.isotope-filter a:after,
+.wgl-container ul.thegov_slash li:before,
+.single_type-1 .single_meta .author_post a:hover,
+.single_type-2 .single_meta .author_post a:hover,
+.info_prev-link_wrapper > a,
+.info_next-link_wrapper > a,
+#comments .commentlist .comment_info .meta-wrapper .comment-edit-link,
+.meta-wrapper a:hover,
+.thegov_module_services_2 .services_link:hover,
+.thegov_module_services_2 .services_wrapper i,
+.thegov_module_double_headings .heading_subtitle,
+.thegov_module_counter .counter_value_wrapper .counter_value_suffix, 
+.thegov_module_counter .counter_value_placeholder .counter_value_suffix,
+.inside_image.sub_layer_animation .post_cats a,
+.inside_image.sub_layer_animation .post_cats span,
+.inside_image.sub_layer_animation .wgl-portfolio-item_meta,
+.wgl-portfolio_container .wgl-carousel.arrows_center_mode .slick-prev:hover:after,
+.wgl-portfolio_container .wgl-carousel.arrows_center_mode .slick-next:hover:after,
+.inside_image .wgl-portfolio-item_meta,
+.wgl_timetabs .timetabs_headings .wgl_tab .services_icon,
+.wgl-portfolio-single_item .portfolio-category:hover,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_cats a:hover,
+.widget.widget_pages ul li a:hover,
+.widget.widget_meta ul li a:hover,
+.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.widget.widget_recent_comments ul li a:hover,
+.widget.widget_recent_entries ul li a:hover,
+.widget.widget_nav_menu ul li a:hover,
+body .widget_rss ul li .rsswidget:hover,
+body .widget_recent_entries  ul li .post-date,
+body .widget_meta ul li .post_count, 
+body .widget_archive ul li > a:before,
+body .widget_product_categories ul li a:hover + .post_count, 
+.recent-posts-widget .meta-wrapper a,
+.widget.thegov_widget.thegov_banner-widget .banner-widget_text .tags_title:after,
+body .widget_product_categories ul li a:hover, 
+.author-widget_social a:hover,
+.widget.widget_recent_comments ul li span.comment-author-link a:hover,
+body .widget .widget-title .widget-title_wrapper:before,
+body .widget_nav_menu .current-menu-ancestor > a,
+body .widget_nav_menu .current-menu-item > a,
+ul.wp-block-categories.wp-block-categories-list li a:hover,
+ul.wp-block-categories.wp-block-categories-list li a:hover + .post_count,
+ul.wp-block-latest-posts li a:hover,
+header.searсh-header .page-title span,
+.button-read-more,
+.wgl-carousel .slick-arrow:after,
+.format-quote .blog-post_wrapper .blog-post_media_part:before,
+.blog-post_link > .link_post:before,
+body .widget_categories a:hover,
+body .widget_categories a:hover + .post_count,
+body .widget_product_categories a:hover + .post_count, 
+body .widget_meta a:hover + .post_count, 
+body .widget_archive a:hover + .post_count,
+.elementor-widget-wgl-double-headings.divider_yes .wgl-double_heading .dbl-title_wrapper:before,
+.elementor-widget.divider_yes .wgl-infobox_title:before,
+.wgl-services-6 .wgl-services_media-wrap .elementor-icon,
+blockquote:after,
+.elementor-widget-container .elementor-swiper-button{
+	color: $theme_color;
+}
+
+header .header-link:hover,
+.hover_links a:hover {
+	color: $theme_color !important;
+}
+
+/* Widget styles */
+.recent-posts-widget .meta-wrapper a,
+.isotope-filter a .number_filter{
+	color: $theme_color;
+}
+/* end widget styles */	
+
+/* ==================== ##End Color Styles ==================== */
+
+/* ==================== ##Background Styles ==================== */
+.single_team_page .team-title:before,
+.next-link_wrapper .image_next:after, 
+.prev-link_wrapper .image_prev:after, 
+.prev-link_wrapper .image_prev .no_image_post,
+.next-link_wrapper .image_next .no_image_post,
+.blog-style-hero .btn-read-more .blog-post-read-more,
+.blog-style-hero .blog-post .wgl-video_popup,
+.blog-style-hero .blog-post .wgl-video_popup .videobox_link,
+.thegov_module_double_headings .heading_title .heading_divider,
+.thegov_module_double_headings .heading_title .heading_divider:before, 
+.thegov_module_double_headings .heading_title .heading_divider:after,
+.wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a span:before,
+.wgl-portfolio-item_wrapper .wgl-portfolio-item_icon:hover,
+.wgl-container ul.thegov_plus li:after,
+.wgl-container ul.thegov_plus li:before,
+.wgl-container ul.thegov_dash li:before,
+#multiscroll-nav span,
+#multiscroll-nav li .active span,
+ul.wp-block-categories.wp-block-categories-list li a:hover:after,
+ul.wp-block-archives.wp-block-archives-list li a:before,
+.wgl-services-6:hover .wgl-services_wrap{
+	background: $theme_color;
+}
+
+::selection,
+#comments > h3:after,
+button:hover,
+mark,
+span.highlighter,
+.vc_wp_custommenu .menu .menu-item a:before,
+.primary-nav ul li.mega-menu.mega-cat div.mega-menu-container ul.mega-menu.cats-horizontal > li.is-active > a,
+.primary-nav ul li ul li > a:after,
+.mobile_nav_wrapper .primary-nav > ul > li > a > span:after,
+.header_search .header_search-field .header_search-button-wrapper,
+.header_search.search_mobile_menu .header_search-field .search-form:after,
+.wgl-theme-header .wgl-button.elementor-button,
+.sitepress_container > .wpml-ls ul ul li a:hover:after,
+.blog-post .blog-post_meta-categories span a,
+.button__wrapper:hover:after,
+.calendar_wrap caption,
+.comment-reply-title:after,
+.thegov_divider .thegov_divider_line .thegov_divider_custom .divider_line,
+.thegov_module_cats .cats_item-count,
+.thegov_module_progress_bar .progress_bar,
+.thegov_module_infobox.type_tile:hover:before,
+.thegov_module_social.with_bg .soc_icon,
+.thegov_module_title:after,
+.thegov_module_title .carousel_arrows a:hover span,
+.thegov_module_videobox .videobox_link,
+.thegov_module_ico_progress .progress_completed,
+.thegov_module_services_3 .services_icon_wrapper .services_circle_wrapper .services_circle,
+.thegov_module_time_line_horizontal .tlh_check_wrap,
+.load_more_works,
+.mc_form_inside #mc_signup_submit,
+.wgl-social-share_pages.hovered_style .share_social-icon-plus,
+.wgl-ellipsis span,
+.inside_image .wgl-portfolio-item_divider div,
+.wgl_module_title.item_title .carousel_arrows a:hover,
+.wgl_timetabs .timetabs_headings .wgl_tab.active:after,
+.wgl-container ul.thegov_plus li:before,
+.wgl-container ul li:before,
+.wgl_module_team .team-meta_info .line,
+.single-team .single_team_page .team-info_item.team-department:before,
+.wgl-social-share_pages.standard_style a:before,
+.blog-style-hero .blog-post-hero_wrapper .divider_post_info,
+.tagcloud a:hover,
+.wgl-portfolio_item_link:hover,
+body .widget_meta ul li a:hover:after, 
+.widget.widget_categories ul li a:hover:before,
+body .widget_archive ul li a:hover:after,
+body .widget_product_categories ul li a:hover:before, 
+.wgl-carousel .slick-arrow:hover,
+.wgl-pricing_plan .pricing_header:after,
+.elementor-slick-slider .slick-slider .slick-next:hover, 
+.elementor-slick-slider .slick-slider .slick-prev:hover,
+.elementor-slick-slider .slick-slider .slick-next:focus, 
+.elementor-slick-slider .slick-slider .slick-prev:focus,
+.share_post-container .share_social-wpapper,
+.blog-post_wrapper .blog-post_media .wgl-video_popup .videobox_link,
+.wgl_module_team .team-icon,
+.single-team .single_team_page .team-info_icons .team-icon:hover,
+.wgl-portfolio-item_annotation_social .single_info-share_social-wpapper .share_link:hover span,
+.load_more_wrapper .load_more_item,
+.elementor-widget-container .elementor-swiper-button:hover,
+.wgl-pagination .page .current,
+.wpcf7 .wpcf7-submit{
+	background-color: $theme_color;
+}
+
+/* Widget styles */
+body .widget_archive ul li a:before,
+aside > .widget + .widget:before,
+.widget .calendar_wrap table td#today:before,
+.widget .calendar_wrap tbody td > a:before,
+.widget .counter_posts,
+.widget.widget_pages ul li a:before,
+.widget.widget_nav_menu ul li a:before,
+.widget_nav_menu .menu .menu-item:before,
+.widget_postshero .recent-posts-widget .post_cat a,
+.widget_meta ul li > a:before,
+.widget_archive ul li > a:before{
+	background-color: $theme_color;
+}
+
+body .widget .widget-title .widget-title_inner:before{
+	background-color: $theme_color;
+	box-shadow: 0px 0px 0 0 $theme_color, 10px 0px 0 0 $theme_color, 15px 0px 0 0 $theme_color, 20px 0px 0 0 $theme_color, 25px 0px 0 0 $theme_color, 30px 0px 0 0 $theme_color, 40px 0px 0 0 $theme_color;
+}
+
+/* end widget styles */	
+
+/* ==================== ##End Background Styles ==================== */
+
+/* ==================== ##Background and Border Styles ==================== */
+
+.blog-post_meta-date,
+#comments .form-submit input[type="submit"],
+.load_more_item:hover,
+.wgl-carousel.navigation_offset_element .slick-prev:hover,
+.wgl-carousel.navigation_offset_element .slick-next:hover,
+.thegov_module_demo_item .di_button a,
+.next-link:hover,
+.prev-link:hover,
+.wpcf7 .call_to_action_1 .wgl_col-2 .wpcf7-submit:hover,
+.load_more_item,
+.coming-soon_form .wpcf7 .wpcf7-submit,
+form.post-password-form input[type='submit'],
+.wgl-demo-item .wgl-button:hover,
+.page_404_wrapper .thegov_404_button.wgl_button .wgl_button_link{
+	border-color: $theme_color;
+	background: $theme_color;
+} 
+
+/* ==================== ##End Background and Border Styles ==================== */
+
+/* ==================== ##Border Styles ==================== */
+
+.header_search,
+.blog-style-hero .format-no_featured .blog-post-hero_wrapper, 
+.blog-style-hero .format-quote .blog-post-hero_wrapper, 
+.blog-style-hero .format-audio .blog-post-hero_wrapper, 
+.blog-style-hero .format-link .blog-post-hero_wrapper,
+.thegov_module_title .carousel_arrows a:hover span:before,
+.load_more_works,
+.author-info_social-link:after,
+.author-widget_social a span,
+.single_info-share_social-wpapper .share_link .share-icon_animation,
+.wgl_module_team .team-image,
+.inside_image.offset_animation:before,
+.thegov_module_videobox .videobox_link,
+.thegov_module_products_special_cats .product_special_cats-image_wrap:before,
+.wpcf7 .call_to_action_1 .wgl_col-2 .wpcf7-submit,
+.wpcf7 .wpcf7-submit,
+.tagcloud a:hover,
+.wgl-portfolio_item_link,
+.wgl-pricing_plan .pricing_header .pricing_title,
+.wgl-services-3 .wgl-services_title{
+	border-color: $theme_color;
+}
+
+.share_post-container .share_social-wpapper:after{
+	border-top-color: $theme_color;
+}
+
+/* ==================== ##End Border Styles ==================== */
+
+/* ==================== ##Additional Styles ==================== */
+
+.wgl-theme-header .header_search .header_search-field:after{
+	border-bottom-color: rgba($hex_theme_color, 0.9);
+}
+
+.theme_color_shadow {
+	box-shadow:  0px 9px 30px 0px rgba($hex_theme_color, 0.4);
+}
+
+.inside_image .overlay:before,
+.inside_image.always_info_animation:hover .overlay:before{
+	box-shadow: inset 0px 0px 0px 0px rgba($hex_theme_color, 1);
+}
+
+.inside_image:hover .overlay:before,
+.inside_image.always_info_animation .overlay:before{
+	box-shadow: inset 0px 0px 0px 10px rgba($hex_theme_color, 1);
+}
+
+/* ==================== ##End Additional Styles ==================== */
+
+/* ==================== ##Theme Secondary Color Styles ==================== */
+
+#comments .comment-reply-link,
+blockquote cite a,
+.wgl-secondary-color,
+.blog-post_link:before,
+blockquote:before,
+.isotope-filter a.active,
+.isotope-filter a:hover,
+#comments .form-submit input[type="submit"]:hover,
+.blog-posts .blog-post_title > a:hover,
+body .comment-respond .comment-form a,
+.wgl_module_team .team-icon a{
+	color: $theme_color;
+}
+
+.prev-link_wrapper a:hover .image_prev.no_image:before,
+.next-link_wrapper a:hover .image_next.no_image:before,
+.wgl_module_team .team-info_icons:hover .team-info_icons-plus,
+.wgl_module_team .team-info_icons-plus:before, 
+.wgl_module_team .team-info_icons-plus:after,
+body .widget_categories ul li a:hover:after, 
+body .widget .widget-title:before,
+.elementor-slick-slider .slick-slider .slick-next, 
+.elementor-slick-slider .slick-slider .slick-prev{
+	background: $theme_color;
+}
+
+form.post-password-form input[type='submit']:hover,
+.wgl-demo-item .wgl-button{
+	background: $theme_color;
+	border-color: $theme_color;
+}
+
+/* ==================== ##End Theme Secondary Color Styles ==================== */

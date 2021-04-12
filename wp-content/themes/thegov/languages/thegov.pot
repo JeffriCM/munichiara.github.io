@@ -1,0 +1,3725 @@
+# Copyright (C) 2021 WebGeniusLab
+# This file is distributed under the same license as the WebGeniusLab package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebGeniusLab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: thegov/404.php:29
+msgid "404"
+msgstr ""
+
+#: thegov/404.php:30
+msgid "Sorry We Can't Find That Page!"
+msgstr ""
+
+#: thegov/404.php:31
+msgid "The page you are looking for was moved, removed, renamed or never existed."
+msgstr ""
+
+#: thegov/404.php:36, thegov/search.php:79
+msgid "Take Me Home"
+msgstr ""
+
+#: thegov/category.php:26
+msgid "Category:"
+msgstr ""
+
+#. translators: %s: post title
+#: thegov/comments.php:37
+msgctxt "comments title"
+msgid "Comment <span class=\"number-comments\">(01)</span>"
+msgstr ""
+
+#: thegov/comments.php:41
+msgctxt "comments title"
+msgid "Comments <span class=\"number-comments\">(%1$s)</span>"
+msgid_plural "Comments <span class=\"number-comments\">(%1$s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: thegov/comments.php:72, thegov/comments.php:72
+msgid "Name *"
+msgstr ""
+
+#: thegov/comments.php:73, thegov/comments.php:73
+msgid "Email *"
+msgstr ""
+
+#: thegov/comments.php:74, thegov/comments.php:74
+msgid "Website"
+msgstr ""
+
+#: thegov/comments.php:76
+msgid "Your Comment"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:67
+msgid "Like"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:68
+msgid "Unlike"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:94
+msgid "Clear"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:95
+msgid "Clear color"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:96, thegov/core/class/walker-mega-menu.php:269, thegov/core/includes/metabox/metabox-config.php:114, thegov/core/includes/metabox/metabox-config.php:218, thegov/core/includes/metabox/metabox-config.php:230, thegov/core/includes/metabox/metabox-config.php:242, thegov/core/includes/metabox/metabox-config.php:254, thegov/core/includes/metabox/metabox-config.php:277, thegov/core/includes/metabox/metabox-config.php:447, thegov/core/includes/metabox/metabox-config.php:548, thegov/core/includes/metabox/metabox-config.php:616, thegov/core/includes/metabox/metabox-config.php:795, thegov/core/includes/metabox/metabox-config.php:998, thegov/core/includes/metabox/metabox-config.php:1091, thegov/core/includes/metabox/metabox-config.php:1321, thegov/core/includes/metabox/metabox-config.php:1726, thegov/core/includes/metabox/metabox-config.php:1907, thegov/core/includes/metabox/metabox-config.php:2022, thegov/core/includes/metabox/metabox-config.php:2067, thegov/core/includes/metabox/metabox-config.php:2177, thegov/core/includes/metabox/metabox-config.php:2272, thegov/core/includes/metabox/metabox-config.php:2376, thegov/core/includes/redux/redux-config.php:4017, thegov/core/includes/redux/redux-config.php:4195, thegov/core/includes/redux/redux-config.php:4265, thegov/core/includes/redux/redux-config.php:4774, thegov/core/includes/redux/redux-config.php:5246, thegov/core/includes/redux/redux-config.php:5822, thegov/core/includes/redux/redux-config.php:5885, thegov/core/includes/redux/redux-config.php:6100, thegov/core/includes/redux/redux-config.php:6163, thegov/core/includes/redux/redux-config.php:6364, thegov/core/includes/redux/redux-config.php:6605, thegov/functions.php:90, thegov/functions.php:198
+msgid "Default"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:97
+msgid "Select default color"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:98
+msgid "Select"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:99
+msgid "Color value"
+msgstr ""
+
+#: thegov/core/class/dynamic-styles.php:128, thegov/core/class/theme-verify.php:212, thegov/core/class/theme-verify.php:326
+msgid "Thank you, your license has been validated"
+msgstr ""
+
+#: thegov/core/class/single-post.php:954, thegov/plugins/events-manager/wp-event-init.php:486
+msgid " View"
+msgstr ""
+
+#: thegov/core/class/single-post.php:957, thegov/plugins/events-manager/wp-event-init.php:489
+msgid " Views"
+msgstr ""
+
+#: thegov/core/class/single-post.php:1002
+msgid "About"
+msgstr ""
+
+#: thegov/core/class/theme-cat-meta.php:61, thegov/core/class/theme-cat-meta.php:93
+msgid "Color"
+msgstr ""
+
+#: thegov/core/class/theme-cat-meta.php:97, thegov/core/class/theme-cat-meta.php:142, thegov/core/class/walker-mega-menu.php:324, thegov/core/includes/redux/redux-config.php:3800
+msgid "Background Image"
+msgstr ""
+
+#: thegov/core/class/theme-cat-meta.php:101, thegov/core/class/theme-cat-meta.php:110, thegov/core/class/theme-cat-meta.php:128, thegov/core/class/theme-cat-meta.php:153, thegov/core/class/theme-cat-meta.php:171, thegov/core/class/theme-cat-meta.php:195
+msgid "Add Image"
+msgstr ""
+
+#: thegov/core/class/theme-cat-meta.php:102, thegov/core/class/theme-cat-meta.php:111, thegov/core/class/theme-cat-meta.php:129, thegov/core/class/theme-cat-meta.php:154, thegov/core/class/theme-cat-meta.php:172, thegov/core/class/theme-cat-meta.php:196
+msgid "Remove Image"
+msgstr ""
+
+#: thegov/core/class/theme-cat-meta.php:106, thegov/core/class/theme-cat-meta.php:124, thegov/core/class/theme-cat-meta.php:160, thegov/core/class/theme-cat-meta.php:184
+msgid "Icon Image"
+msgstr ""
+
+#: thegov/core/class/theme-helper.php:249, thegov/single-event.php:203, thegov/single-location.php:187, thegov/single.php:200
+msgid "Load More"
+msgstr ""
+
+#: thegov/core/class/theme-helper.php:425
+msgid "Published in"
+msgstr ""
+
+#: thegov/core/class/theme-helper.php:447
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: thegov/core/class/theme-helper.php:465
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: thegov/core/class/theme-likes.php:33
+msgid "Not permitted"
+msgstr ""
+
+#: thegov/core/class/theme-panel.php:59, thegov/core/class/theme-panel.php:60
+msgid "WebGeniusLab"
+msgstr ""
+
+#: thegov/core/class/theme-panel.php:69, thegov/core/class/theme-panel.php:70
+msgid "Welcome"
+msgstr ""
+
+#: thegov/core/class/theme-panel.php:78, thegov/core/class/theme-panel.php:79
+msgid "Theme Plugins"
+msgstr ""
+
+#: thegov/core/class/theme-panel.php:88, thegov/core/class/theme-panel.php:89
+msgid "Requirements"
+msgstr ""
+
+#: thegov/core/class/theme-panel.php:97, thegov/core/class/theme-panel.php:98
+msgid "Activate Theme"
+msgstr ""
+
+#: thegov/core/class/theme-panel.php:105, thegov/core/class/theme-panel.php:106
+msgid "Help Center"
+msgstr ""
+
+#: thegov/core/class/theme-panel.php:113, thegov/core/class/theme-panel.php:114, thegov/core/includes/redux/redux-config.php:60, thegov/core/includes/redux/redux-config.php:61
+msgid "Theme Options"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:44
+msgid "Main menu"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:69
+msgid "Add widget here to appear it in custom sidebar."
+msgstr ""
+
+#: thegov/core/class/theme-support.php:81
+msgid "Footer Column 1"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:85
+msgid "Footer Column 2"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:89
+msgid "Footer Column 3"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:93
+msgid "Footer Column 4"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:102
+msgid "This area will display in footer like a column. Add widget here to appear it in footer column."
+msgstr ""
+
+#: thegov/core/class/theme-support.php:112
+msgid "Shop Products"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:116
+msgid "Shop Single"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:120
+msgid "Shop Filter"
+msgstr ""
+
+#: thegov/core/class/theme-support.php:128
+msgid "This sidebar will display in WooCommerce Pages."
+msgstr ""
+
+#: thegov/core/class/theme-support.php:138, thegov/core/includes/metabox/metabox-config.php:1717, thegov/core/includes/metabox/metabox-config.php:1722, thegov/core/includes/redux/redux-config.php:409, thegov/core/includes/redux/redux-config.php:457, thegov/core/includes/redux/redux-config.php:2738, thegov/core/includes/redux/redux-config.php:2779, thegov/core/includes/redux/redux-config.php:3071, thegov/core/includes/redux/redux-config.php:3101, thegov/core/includes/redux/redux-config.php:5064
+msgid "Side Panel"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:100
+msgid " Theme is not activated! Please activate your copy and enjoy using all features of the %s theme"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:104
+msgid "Please activate the theme!"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:106
+msgid "Activate Now"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:150
+msgid "<strong>Your support period expired. <a href=\"%s\">You can prolong support</a> services as you need.</strong>"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:152
+msgid "<strong>Your support period will be expired after %d days. <a href=\"%s\">You can prolong support</a> services as you need.</strong>"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:162
+msgid "Remind me later"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:163
+msgid "Hide and disable further reminders"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:176
+msgid "Please enter a valid field"
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:186
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:193
+msgid "Purchase code is empty "
+msgstr ""
+
+#: thegov/core/class/theme-verify.php:268
+msgid "Success"
+msgstr ""
+
+#: thegov/core/class/walker-comment.php:42
+msgid "Pingback:"
+msgstr ""
+
+#: thegov/core/class/walker-comment.php:42
+msgid "(Edit)"
+msgstr ""
+
+#: thegov/core/class/walker-comment.php:61, thegov/core/class/walker-mega-menu.php:595
+msgid "Edit"
+msgstr ""
+
+#: thegov/core/class/walker-comment.php:66
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: thegov/core/class/walker-comment.php:70
+msgid "Reply"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:235
+msgid "All"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:267
+msgid "Submenu Position"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:270, thegov/core/class/walker-mega-menu.php:348, thegov/core/includes/metabox/metabox-config.php:315, thegov/core/includes/metabox/metabox-config.php:1848, thegov/core/includes/metabox/metabox-config.php:1878, thegov/core/includes/redux/redux-config.php:2004, thegov/core/includes/redux/redux-config.php:2047, thegov/core/includes/redux/redux-config.php:2090, thegov/core/includes/redux/redux-config.php:2133, thegov/core/includes/redux/redux-config.php:2176, thegov/core/includes/redux/redux-config.php:2219, thegov/core/includes/redux/redux-config.php:2262, thegov/core/includes/redux/redux-config.php:2305, thegov/core/includes/redux/redux-config.php:2348, thegov/core/includes/redux/redux-config.php:2391, thegov/core/includes/redux/redux-config.php:2434, thegov/core/includes/redux/redux-config.php:2477, thegov/core/includes/redux/redux-config.php:3044, thegov/core/includes/redux/redux-config.php:4539, thegov/core/includes/redux/redux-config.php:4550, thegov/core/includes/redux/redux-config.php:4634, thegov/core/includes/redux/redux-config.php:5145, thegov/core/includes/redux/redux-config.php:5168, thegov/core/includes/redux/redux-config.php:6453, thegov/core/includes/redux/redux-config.php:6473
+msgid "Left"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:271, thegov/core/class/walker-mega-menu.php:346, thegov/core/includes/metabox/metabox-config.php:317, thegov/core/includes/metabox/metabox-config.php:1850, thegov/core/includes/metabox/metabox-config.php:1879, thegov/core/includes/redux/redux-config.php:2006, thegov/core/includes/redux/redux-config.php:2049, thegov/core/includes/redux/redux-config.php:2092, thegov/core/includes/redux/redux-config.php:2135, thegov/core/includes/redux/redux-config.php:2178, thegov/core/includes/redux/redux-config.php:2221, thegov/core/includes/redux/redux-config.php:2264, thegov/core/includes/redux/redux-config.php:2307, thegov/core/includes/redux/redux-config.php:2350, thegov/core/includes/redux/redux-config.php:2393, thegov/core/includes/redux/redux-config.php:2436, thegov/core/includes/redux/redux-config.php:2479, thegov/core/includes/redux/redux-config.php:3045, thegov/core/includes/redux/redux-config.php:4541, thegov/core/includes/redux/redux-config.php:4552, thegov/core/includes/redux/redux-config.php:4636, thegov/core/includes/redux/redux-config.php:5147, thegov/core/includes/redux/redux-config.php:5169, thegov/core/includes/redux/redux-config.php:6455, thegov/core/includes/redux/redux-config.php:6475
+msgid "Right"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:277
+msgid "Thegov Mega Menu Settings:"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:277
+msgid "(Only for Main Menu)"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:281
+msgid "WGL Mega Menu Settings"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:288
+msgid "Enable The Mega Menu?"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:290
+msgid "Disable"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:292
+msgid "Posts - Vertical Sub-Categories Filter"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:293
+msgid "Posts - Horizontal Sub-Categories Filter"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:295
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:303
+msgid "Posts Count"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:311
+msgid "Number of Mega Menu Columns"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:327
+msgid "Upload"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:332
+msgid "Background Repeat"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:334
+msgid "No Repeat"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:335
+msgid "Repeat"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:336
+msgid "Repeat X"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:337
+msgid "Repeat Y"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:344
+msgid "Background Position X"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:347, thegov/core/class/walker-mega-menu.php:358, thegov/core/includes/metabox/metabox-config.php:316, thegov/core/includes/metabox/metabox-config.php:1849, thegov/core/includes/redux/redux-config.php:2005, thegov/core/includes/redux/redux-config.php:2048, thegov/core/includes/redux/redux-config.php:2091, thegov/core/includes/redux/redux-config.php:2134, thegov/core/includes/redux/redux-config.php:2177, thegov/core/includes/redux/redux-config.php:2220, thegov/core/includes/redux/redux-config.php:2263, thegov/core/includes/redux/redux-config.php:2306, thegov/core/includes/redux/redux-config.php:2349, thegov/core/includes/redux/redux-config.php:2392, thegov/core/includes/redux/redux-config.php:2435, thegov/core/includes/redux/redux-config.php:2478, thegov/core/includes/redux/redux-config.php:4540, thegov/core/includes/redux/redux-config.php:4551, thegov/core/includes/redux/redux-config.php:4635, thegov/core/includes/redux/redux-config.php:5146, thegov/core/includes/redux/redux-config.php:6454, thegov/core/includes/redux/redux-config.php:6474
+msgid "Center"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:355
+msgid "Background Position Y"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:357, thegov/core/includes/redux/redux-config.php:2015, thegov/core/includes/redux/redux-config.php:2058, thegov/core/includes/redux/redux-config.php:2101, thegov/core/includes/redux/redux-config.php:2144, thegov/core/includes/redux/redux-config.php:2187, thegov/core/includes/redux/redux-config.php:2230, thegov/core/includes/redux/redux-config.php:2273, thegov/core/includes/redux/redux-config.php:2316, thegov/core/includes/redux/redux-config.php:2359, thegov/core/includes/redux/redux-config.php:2402, thegov/core/includes/redux/redux-config.php:2445, thegov/core/includes/redux/redux-config.php:2488
+msgid "Top"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:359, thegov/core/includes/redux/redux-config.php:2017, thegov/core/includes/redux/redux-config.php:2060, thegov/core/includes/redux/redux-config.php:2103, thegov/core/includes/redux/redux-config.php:2146, thegov/core/includes/redux/redux-config.php:2189, thegov/core/includes/redux/redux-config.php:2232, thegov/core/includes/redux/redux-config.php:2275, thegov/core/includes/redux/redux-config.php:2318, thegov/core/includes/redux/redux-config.php:2361, thegov/core/includes/redux/redux-config.php:2404, thegov/core/includes/redux/redux-config.php:2447, thegov/core/includes/redux/redux-config.php:2490
+msgid "Bottom"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:366
+msgid "Min Height"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:374, thegov/core/includes/redux/redux-config.php:1680, thegov/core/includes/redux/redux-config.php:1791, thegov/core/includes/redux/redux-config.php:1905, thegov/core/includes/redux/redux-config.php:2814
+msgid "Max Width"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:382
+msgid "Padding Left"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:389
+msgid "Padding Right"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:397
+msgid "Hide Mega Menu headings?"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: thegov/core/class/walker-mega-menu.php:545
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: thegov/core/class/walker-mega-menu.php:549
+msgid "%s (Pending)"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:563
+msgid "sub item"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:578
+msgid "Move up"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:591
+msgid "Move down"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:595
+msgid "Edit menu item"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:604, thegov/core/includes/metabox/metabox-config.php:769
+msgid "URL"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:611
+msgid "Navigation Label"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:617
+msgid "Title Attribute"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:624, thegov/core/includes/redux/redux-config.php:1172, thegov/core/includes/redux/redux-config.php:1365
+msgid "Open link in a new tab"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:629
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:635
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:641, thegov/core/includes/metabox/metabox-config.php:71, thegov/core/includes/metabox/metabox-config.php:190, thegov/core/includes/metabox/metabox-config.php:197
+msgid "Description"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:643
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:654
+msgid "Move"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:655
+msgid "Up one"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:656
+msgid "Down one"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:659
+msgid "To the top"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:671
+msgid "Original: %s"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:684
+msgid "Remove"
+msgstr ""
+
+#: thegov/core/class/walker-mega-menu.php:685
+msgid "Cancel"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:26
+msgid "Activate your Licence"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:29
+msgid "Welcome and thank you for Choosing %s Theme!"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:31
+msgid "The %s theme needs to be activated to enable all features, import demo and Support."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:37
+msgid "How to find purchase code?"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:41, thegov/core/dashboard/tpl-view-activate-theme.php:42
+msgid "E-mail address"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:46, thegov/core/dashboard/tpl-view-activate-theme.php:47
+msgid "Enter Your Purchase Code"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:60, thegov/core/tgm/class-tgm-plugin-activation.php:2796
+msgid "Activate"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:74
+msgid "Thank you!"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:77
+msgid "Your theme's license is activated successfully."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:96
+msgid "Deactivate"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:104
+msgid "1 license  = 1 domain = 1 website"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-activate-theme.php:105
+msgid "You can always buy more licences for this product:"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:70
+msgid "Theme Config"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:75
+msgid "Theme Name"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:79, thegov/core/dashboard/tpl-view-status.php:323, thegov/core/tgm/class-tgm-plugin-activation.php:2623
+msgid "Version"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:83
+msgid "Author URL"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:97
+msgid "Server Settings"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:102
+msgid "PHP Version"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:113
+msgid "- We recommend a minimum PHP version of "
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:128
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:133
+msgid " You cannot upload images, themes and plugins that have a size bigger than this value: "
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:140, thegov/core/dashboard/tpl-view-status.php:167, thegov/core/dashboard/tpl-view-status.php:200, thegov/core/dashboard/tpl-view-status.php:232, thegov/core/dashboard/tpl-view-status.php:266, thegov/core/dashboard/tpl-view-status.php:343
+msgid " To see how you can change this please check this guide"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:149
+msgid "PHP Max Execution Time Limit"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:161
+msgid "- We recommend setting max execution time to at least "
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:183
+msgid "PHP Max Input Time"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:194
+msgid "- We recommend setting max input time to at least "
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:216
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:227
+msgid ". We recommend minimum value: %d. Max input vars limitation will truncate POST data such as menus."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:247
+msgid "MySql Version"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:251
+msgid "Max upload size"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:261
+msgid ". We recommend minimum value: 128 MB."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:282
+msgid "SimpleXML"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:290
+msgid "To ensure successful installation of demo content The SimpleXML extension should be installed on your web server. Please contact your hosting provider to install and activate SimpleXML extension."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:297
+msgid "Enabled"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:310
+msgid "WordPress Settings"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:315
+msgid "Home Url"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:319
+msgid "Site Url"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:327
+msgid "Memory Limit"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:338
+msgid " .We recommend setting memory to be at least 128MB."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:368
+msgid "WP_DEBUG is enabled."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:369
+msgid " How to disable WP_DEBUG mode."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-status.php:372
+msgid "WP_DEBUG is disabled."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:30
+msgid "Need Help? WebGeniusLab Help Center Here"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:35
+msgid "Please read a <a target=\"_blank\" href=\"https://themeforest.net/page/item_support_policy\">Support Policy</a> before submitting a ticket and make sure that your question related to our product issues."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:39
+msgid "If you did not find an answer to your question, feel free to contact us."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:57
+msgid "Documentation"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:64
+msgid "Before submitting a ticket, please read the documentation. Probably, your issue already described."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:71
+msgid "Visit Documentation"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:93
+msgid "Video Tutorials"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:100
+msgid "There you can watch tutorial for main issues. How to import demo content? How to create a Mega Menu? etc.."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:107
+msgid "Watch Tutorials"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:129
+msgid "Support forum"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:136
+msgid "If you did not find an answer to your question, submit a ticket with well describe your issue."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:143
+msgid "Create a ticket"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-theme-helper.php:156
+msgid "Do You have some other questions? Need Customization? Pre-purchase questions? Ask it <a  target=\"_blank\"  href=\"mailto:webgeniuslab@gmail.com\">there!</a>"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:30
+msgid "Welcome to"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:35
+msgid "Version - "
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:40
+msgid "%s is already installed and ready to use! Let's build something impressive."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:54
+msgid "Just complete the steps below and you will be able to use all functionalities of %s theme by WebGeniusLab:"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:60
+msgid "Step 1"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:62
+msgid "Activate your license."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:65
+msgid "Important:"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:67
+msgid "one license  only for one website"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:72
+msgid "Step 2"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:75
+msgid "Check <a target=\"_blank\" href=\"%s\">requirements</a> to avoid errors with your WordPress."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:81
+msgid "Step 3"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:83
+msgid "Install Required and recommended plugins."
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:87
+msgid "Step 4"
+msgstr ""
+
+#: thegov/core/dashboard/tpl-view-weclome.php:89
+msgid "Import demo content"
+msgstr ""
+
+#: thegov/core/includes/default-options.php:27
+msgctxt "Quicksand font: on or off"
+msgid "on"
+msgstr ""
+
+#: thegov/core/includes/default-options.php:33
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:49
+msgid "Team Options"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:54
+msgid "Member Department"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:60
+msgid "Member Info"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:67, thegov/core/includes/metabox/metabox-config.php:193, thegov/woocommerce/woocommerce-init.php:255
+msgid "Name"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:75, thegov/core/includes/redux/redux-config.php:1167, thegov/core/includes/redux/redux-config.php:1360
+msgid "Link"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:81
+msgid "Social Icons"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:87
+msgid "Select an icon"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:92
+msgid "Info Background Image"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:105
+msgid "Portfolio Options"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:110, thegov/core/includes/metabox/metabox-config.php:612, thegov/core/includes/redux/redux-config.php:4193, thegov/core/includes/redux/redux-config.php:5820, thegov/core/includes/redux/redux-config.php:6098
+msgid "Featured Image"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:115, thegov/core/includes/metabox/metabox-config.php:278, thegov/core/includes/metabox/metabox-config.php:549, thegov/core/includes/metabox/metabox-config.php:617, thegov/core/includes/metabox/metabox-config.php:796, thegov/core/includes/metabox/metabox-config.php:999, thegov/core/includes/metabox/metabox-config.php:1092, thegov/core/includes/metabox/metabox-config.php:1727, thegov/core/includes/metabox/metabox-config.php:2273, thegov/core/includes/metabox/metabox-config.php:2377
+msgid "Custom"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:121, thegov/core/includes/metabox/metabox-config.php:608, thegov/core/includes/metabox/metabox-config.php:623
+msgid "Featured Image Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:125, thegov/core/includes/metabox/metabox-config.php:220, thegov/core/includes/metabox/metabox-config.php:232, thegov/core/includes/metabox/metabox-config.php:244, thegov/core/includes/metabox/metabox-config.php:256, thegov/core/includes/metabox/metabox-config.php:449, thegov/core/includes/metabox/metabox-config.php:627, thegov/core/includes/metabox/metabox-config.php:797, thegov/core/includes/metabox/metabox-config.php:1323, thegov/core/includes/metabox/metabox-config.php:1909, thegov/core/includes/metabox/metabox-config.php:2024, thegov/core/includes/metabox/metabox-config.php:2179, thegov/core/includes/metabox/metabox-config.php:2274, thegov/core/includes/metabox/metabox-config.php:2378, thegov/core/includes/redux/redux-config.php:4196, thegov/core/includes/redux/redux-config.php:5823, thegov/core/includes/redux/redux-config.php:6101
+msgid "Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:126, thegov/core/includes/metabox/metabox-config.php:628, thegov/core/includes/redux/redux-config.php:4197, thegov/core/includes/redux/redux-config.php:5824, thegov/core/includes/redux/redux-config.php:6102
+msgid "Replace"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:139, thegov/core/includes/metabox/metabox-config.php:641, thegov/core/includes/redux/redux-config.php:4204, thegov/core/includes/redux/redux-config.php:5831, thegov/core/includes/redux/redux-config.php:6109
+msgid "Featured Image Replace"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:153
+msgid "Show Title on single"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:159
+msgid "Add Custom Link for Portfolio Grid"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:163
+msgid "Custom Url for Portfolio Grid"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:175
+msgid "Open Custom Url in New Window"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:185
+msgid "Info"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:201
+msgid "Url"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:207
+msgid "Info Description"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:211
+msgid "Info description is shown in one row with a main info"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:214, thegov/core/includes/redux/redux-config.php:4504
+msgid "Categories On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:219, thegov/core/includes/metabox/metabox-config.php:231, thegov/core/includes/metabox/metabox-config.php:243, thegov/core/includes/metabox/metabox-config.php:255, thegov/core/includes/metabox/metabox-config.php:448, thegov/core/includes/metabox/metabox-config.php:1322, thegov/core/includes/metabox/metabox-config.php:1908, thegov/core/includes/metabox/metabox-config.php:2023, thegov/core/includes/metabox/metabox-config.php:2178
+msgid "On"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:226
+msgid "Date On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:238, thegov/core/includes/redux/redux-config.php:4791
+msgid "Tags On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:250
+msgid "Share Links On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:268
+msgid "Portfolio Post Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:273, thegov/core/includes/metabox/metabox-config.php:544
+msgid "Post Layout"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:284, thegov/core/includes/metabox/metabox-config.php:540
+msgid "Post Layout Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:293
+msgid "Post Content Layout"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:297, thegov/core/includes/metabox/metabox-config.php:559, thegov/core/includes/redux/redux-config.php:4167, thegov/core/includes/redux/redux-config.php:4622, thegov/core/includes/redux/redux-config.php:5787, thegov/core/includes/redux/redux-config.php:6065
+msgid "Title First"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:298, thegov/core/includes/metabox/metabox-config.php:560, thegov/core/includes/redux/redux-config.php:4168, thegov/core/includes/redux/redux-config.php:4623, thegov/core/includes/redux/redux-config.php:5788, thegov/core/includes/redux/redux-config.php:6066
+msgid "Image First"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:299, thegov/core/includes/metabox/metabox-config.php:561, thegov/core/includes/redux/redux-config.php:4169, thegov/core/includes/redux/redux-config.php:4624, thegov/core/includes/redux/redux-config.php:5789, thegov/core/includes/redux/redux-config.php:6067
+msgid "Overlay Image"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:300, thegov/core/includes/redux/redux-config.php:4625
+msgid "Overlay Image with Info"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:311
+msgid "Alignment"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:328, thegov/core/includes/metabox/metabox-config.php:574
+msgid "Spacing"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:352, thegov/core/includes/redux/redux-config.php:4662
+msgid "Add Portfolio Parallax"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:363, thegov/core/includes/metabox/metabox-config.php:1471
+msgid "Prallax Speed"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:379, thegov/core/includes/metabox/metabox-config.php:1585, thegov/core/includes/redux/redux-config.php:4682
+msgid "Responsive Layout"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:392, thegov/core/includes/metabox/metabox-config.php:1604, thegov/core/includes/redux/redux-config.php:3538, thegov/core/includes/redux/redux-config.php:4692
+msgid "Screen breakpoint"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:408, thegov/core/includes/metabox/metabox-config.php:1632
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:438, thegov/core/includes/metabox/metabox-config.php:479, thegov/core/includes/redux/redux-config.php:4858
+msgid "Related Portfolio"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:444
+msgid "Portfolio Related"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:456
+msgid "Portfolio Related Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:466, thegov/core/includes/redux/redux-config.php:4864
+msgid "Display items carousel for this portfolio post"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:476, thegov/core/includes/metabox/metabox-config.php:812, thegov/core/includes/metabox/metabox-config.php:2289, thegov/core/includes/metabox/metabox-config.php:2393, thegov/core/includes/redux/redux-config.php:4361, thegov/core/includes/redux/redux-config.php:4857, thegov/core/includes/redux/redux-config.php:5974, thegov/core/includes/redux/redux-config.php:6239
+msgid "Title"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:487, thegov/core/includes/metabox/metabox-config.php:823, thegov/core/includes/metabox/metabox-config.php:2300, thegov/core/includes/metabox/metabox-config.php:2404
+msgid "Categories"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:499, thegov/core/includes/metabox/metabox-config.php:835, thegov/core/includes/metabox/metabox-config.php:2314, thegov/core/includes/metabox/metabox-config.php:2417, thegov/core/includes/redux/redux-config.php:3696, thegov/core/includes/redux/redux-config.php:4377, thegov/core/includes/redux/redux-config.php:5991, thegov/core/includes/redux/redux-config.php:6256
+msgid "Columns"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:503, thegov/core/includes/metabox/metabox-config.php:840, thegov/core/includes/metabox/metabox-config.php:2319, thegov/core/includes/metabox/metabox-config.php:2422
+msgid "2"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:504, thegov/core/includes/metabox/metabox-config.php:841, thegov/core/includes/metabox/metabox-config.php:2320, thegov/core/includes/metabox/metabox-config.php:2423
+msgid "3"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:505, thegov/core/includes/metabox/metabox-config.php:842, thegov/core/includes/metabox/metabox-config.php:2321, thegov/core/includes/metabox/metabox-config.php:2424
+msgid "4"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:516, thegov/core/includes/metabox/metabox-config.php:853, thegov/core/includes/metabox/metabox-config.php:2332, thegov/core/includes/metabox/metabox-config.php:2435, thegov/core/includes/redux/redux-config.php:4390, thegov/core/includes/redux/redux-config.php:4883, thegov/core/includes/redux/redux-config.php:6004, thegov/core/includes/redux/redux-config.php:6269
+msgid "Number of Related Items"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:535
+msgid "Post Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:555
+msgid "Post Layout Type"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:597
+msgid "Apply Animation"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:659
+msgid "Post Format Layout"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:665
+msgid "Standard Post( Enabled only Featured Image for this post format)"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:676
+msgid "Gallery Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:680
+msgid "Add Images"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:687
+msgid "Video Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:691
+msgid "Video Style"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:695
+msgid "Background Video"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:696
+msgid "Popup"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:702
+msgid "Start Video"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:713
+msgid "End Video"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:723, thegov/core/includes/metabox/metabox-config.php:759
+msgid "oEmbed URL"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:729
+msgid "Quote Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:733
+msgid "Quote Text"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:738
+msgid "Author Name"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:743
+msgid "Author Position"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:748
+msgid "Author Avatar"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:755
+msgid "Audio Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:765
+msgid "Link Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:774
+msgid "Text"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:785
+msgid "Related Blog Post"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:791, thegov/core/includes/metabox/metabox-config.php:2268, thegov/core/includes/metabox/metabox-config.php:2372
+msgid "Related Options"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:803, thegov/core/includes/metabox/metabox-config.php:2280, thegov/core/includes/metabox/metabox-config.php:2384
+msgid "Related Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:815, thegov/core/includes/redux/redux-config.php:4355, thegov/core/includes/redux/redux-config.php:4362, thegov/core/includes/redux/redux-config.php:4844, thegov/single.php:183
+msgid "Related Posts"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:839, thegov/core/includes/metabox/metabox-config.php:2318, thegov/core/includes/metabox/metabox-config.php:2421
+msgid "1"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:869
+msgid "Display items carousel for this blog post"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:888
+msgid "Page Layout"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:893, thegov/core/includes/redux/redux-config.php:5199
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:905
+msgid "Sidebar Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:915, thegov/core/includes/redux/redux-config.php:5219
+msgid "Page Sidebar"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:929, thegov/core/includes/redux/redux-config.php:5226
+msgid "Page Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:947, thegov/core/includes/redux/redux-config.php:5237, thegov/core/includes/redux/redux-config.php:6355
+msgid "Sticky Sidebar On?"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:957, thegov/core/includes/redux/redux-config.php:5244, thegov/core/includes/redux/redux-config.php:6362
+msgid "Sidebar Side Gap"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:989, thegov/core/includes/metabox/metabox-config.php:994
+msgid "Page Colors"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1006
+msgid "Colors Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1015, thegov/core/includes/redux/redux-config.php:5498
+msgid "General Theme Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1028, thegov/core/includes/redux/redux-config.php:5506
+msgid "Body Background Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1041
+msgid "Scroll Up Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1050, thegov/core/includes/redux/redux-config.php:208
+msgid "Button Background Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1063, thegov/core/includes/redux/redux-config.php:200
+msgid "Button Arrow Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1082, thegov/core/includes/metabox/metabox-config.php:1087, thegov/core/includes/redux/redux-config.php:254, thegov/core/includes/redux/redux-config.php:416, thegov/core/includes/redux/redux-config.php:465, thegov/core/includes/redux/redux-config.php:2750, thegov/core/includes/redux/redux-config.php:2785, thegov/core/includes/redux/redux-config.php:3080, thegov/core/includes/redux/redux-config.php:3110, thegov/core/includes/redux/redux-config.php:3145, thegov/core/includes/redux/redux-config.php:3167
+msgid "Logo"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1099
+msgid "Logo Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1108, thegov/core/includes/redux/redux-config.php:261
+msgid "Header Logo"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1120, thegov/core/includes/redux/redux-config.php:266
+msgid "Enable Logo Height"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1129, thegov/core/includes/redux/redux-config.php:274
+msgid "Set Logo Height"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1143, thegov/core/includes/redux/redux-config.php:283
+msgid "Sticky Logo"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1155, thegov/core/includes/redux/redux-config.php:288
+msgid "Enable Sticky Logo Height"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1164, thegov/core/includes/redux/redux-config.php:296
+msgid "Set Sticky Logo Height"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1177, thegov/core/includes/redux/redux-config.php:307
+msgid "Mobile Logo"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1189, thegov/core/includes/metabox/metabox-config.php:1223, thegov/core/includes/redux/redux-config.php:312
+msgid "Enable Mobile Logo Height"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1198, thegov/core/includes/metabox/metabox-config.php:1232, thegov/core/includes/redux/redux-config.php:320
+msgid "Set Mobile Logo Height"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1211, thegov/core/includes/redux/redux-config.php:331
+msgid "Mobile Menu Logo"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1251, thegov/core/includes/redux/redux-config.php:249
+msgid "Header"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1256, thegov/core/includes/redux/redux-config.php:2512
+msgid "Header Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1260
+msgid "default"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1261
+msgid "custom"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1262
+msgid "hide"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1268, thegov/core/includes/redux/redux-config.php:356, thegov/core/includes/redux/redux-config.php:378
+msgid "Header Builder"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1283
+msgid "Menu "
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1296, thegov/core/includes/redux/redux-config.php:2616
+msgid "Sticky Header"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1312, thegov/core/includes/metabox/metabox-config.php:1318, thegov/core/includes/metabox/metabox-config.php:1494, thegov/core/includes/redux/redux-config.php:3330
+msgid "Page Title"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1330, thegov/core/includes/redux/redux-config.php:3348
+msgid "Page Title Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1340, thegov/core/includes/redux/redux-config.php:3355, thegov/core/includes/redux/redux-config.php:4565, thegov/core/includes/redux/redux-config.php:5004, thegov/core/includes/redux/redux-config.php:6486
+msgid "Use Background?"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1351, thegov/core/includes/metabox/metabox-config.php:2120, thegov/core/includes/redux/redux-config.php:3361, thegov/core/includes/redux/redux-config.php:4571, thegov/core/includes/redux/redux-config.php:5015, thegov/core/includes/redux/redux-config.php:5132, thegov/core/includes/redux/redux-config.php:6492
+msgid "Background"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1367, thegov/core/includes/metabox/metabox-config.php:1618, thegov/core/includes/redux/redux-config.php:3381, thegov/core/includes/redux/redux-config.php:3551
+msgid "Height"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1381, thegov/core/includes/redux/redux-config.php:3417, thegov/core/includes/redux/redux-config.php:4537, thegov/core/includes/redux/redux-config.php:6451
+msgid "Title Alignment"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1385, thegov/core/includes/metabox/metabox-config.php:1520
+msgid "left"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1386, thegov/core/includes/metabox/metabox-config.php:1521
+msgid "center"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1387, thegov/core/includes/metabox/metabox-config.php:1522
+msgid "right"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1398, thegov/core/includes/redux/redux-config.php:3390, thegov/core/includes/redux/redux-config.php:3568, thegov/core/includes/redux/redux-config.php:4588, thegov/core/includes/redux/redux-config.php:5028, thegov/core/includes/redux/redux-config.php:6509
+msgid "Paddings Top/Bottom"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1419, thegov/core/includes/redux/redux-config.php:3405, thegov/core/includes/redux/redux-config.php:4603, thegov/core/includes/redux/redux-config.php:5044, thegov/core/includes/redux/redux-config.php:6524
+msgid "Margin Bottom"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1438
+msgid "Border Top Switch"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1447, thegov/core/includes/redux/redux-config.php:6542
+msgid "Border Top Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1462, thegov/core/includes/redux/redux-config.php:3453
+msgid "Parallax Switch"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1485, thegov/core/includes/redux/redux-config.php:4997
+msgid "Custom Page Title"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1506, thegov/core/includes/metabox/metabox-config.php:1677
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1516, thegov/core/includes/redux/redux-config.php:3441
+msgid "Breadcrumbs Alignment"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1534
+msgid "Page Title Typography"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1543, thegov/core/includes/metabox/metabox-config.php:1654, thegov/core/includes/redux/redux-config.php:3484, thegov/core/includes/redux/redux-config.php:3578
+msgid "Page Title Font"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1564, thegov/core/includes/metabox/metabox-config.php:1688, thegov/core/includes/redux/redux-config.php:3504, thegov/core/includes/redux/redux-config.php:3606
+msgid "Page Title Breadcrumbs Font"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1595, thegov/core/includes/redux/redux-config.php:3532
+msgid "Responsive Layout On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1734
+msgid "Side Panel Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1743, thegov/core/includes/metabox/metabox-config.php:2063, thegov/core/includes/redux/redux-config.php:3673, thegov/core/includes/redux/redux-config.php:5071
+msgid "Content Type"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1747
+msgid "Widgets"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1748, thegov/core/includes/metabox/metabox-config.php:2068
+msgid "Page"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1777, thegov/core/includes/metabox/metabox-config.php:2097, thegov/core/includes/metabox/metabox-config.php:2235, thegov/core/includes/redux/redux-config.php:3767, thegov/core/includes/redux/redux-config.php:3924, thegov/core/includes/redux/redux-config.php:5098
+msgid "Paddings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1801, thegov/core/includes/redux/redux-config.php:5110
+msgid "Title Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1815, thegov/core/includes/metabox/metabox-config.php:2207, thegov/core/includes/redux/redux-config.php:1204, thegov/core/includes/redux/redux-config.php:1396, thegov/core/includes/redux/redux-config.php:3904, thegov/core/includes/redux/redux-config.php:5121
+msgid "Text Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1829, thegov/core/includes/metabox/metabox-config.php:2221, thegov/core/includes/redux/redux-config.php:1228, thegov/core/includes/redux/redux-config.php:1420, thegov/core/includes/redux/redux-config.php:3823, thegov/core/includes/redux/redux-config.php:3912
+msgid "Background Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1844, thegov/core/includes/redux/redux-config.php:5143
+msgid "Text Align"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1861, thegov/core/includes/redux/redux-config.php:5156
+msgid "Width"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1874, thegov/core/includes/redux/redux-config.php:5166
+msgid "Position"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1898, thegov/core/includes/metabox/metabox-config.php:1903, thegov/core/includes/redux/redux-config.php:5270
+msgid "Social Shares"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1916, thegov/core/includes/redux/redux-config.php:5283
+msgid "Choose your share style."
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1920, thegov/core/includes/redux/redux-config.php:175, thegov/core/includes/redux/redux-config.php:5285
+msgid "Standard"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1921, thegov/core/includes/redux/redux-config.php:5286
+msgid "Hovered"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1933, thegov/core/includes/redux/redux-config.php:5294
+msgid "Fixed Position On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1942
+msgid "Offset Top(in percentage)"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1953, thegov/core/includes/redux/redux-config.php:5308
+msgid "Measurement units defined as \"percents\" while position fixed is enabled, and as \"pixels\" while position is off."
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1957, thegov/core/includes/redux/redux-config.php:5317
+msgid "Facebook Share On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1967, thegov/core/includes/redux/redux-config.php:5324
+msgid "Twitter Share On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1977, thegov/core/includes/redux/redux-config.php:5331
+msgid "Linkedin Share On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1987, thegov/core/includes/redux/redux-config.php:5338
+msgid "Pinterest Share On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:1997, thegov/core/includes/redux/redux-config.php:5345
+msgid "Tumblr Share On/Off"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2013, thegov/core/includes/metabox/metabox-config.php:2018, thegov/core/includes/redux/redux-config.php:3630
+msgid "Footer"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2030, thegov/core/includes/redux/redux-config.php:3648
+msgid "Footer Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2040, thegov/core/includes/redux/redux-config.php:3655
+msgid "Add Wave"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2049, thegov/core/includes/redux/redux-config.php:3664
+msgid "Set Wave Height"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2137, thegov/core/includes/redux/redux-config.php:3844
+msgid "Add Border Top"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2146, thegov/core/includes/redux/redux-config.php:1252, thegov/core/includes/redux/redux-config.php:1444
+msgid "Border Color"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2168, thegov/core/includes/metabox/metabox-config.php:2173, thegov/core/includes/redux/redux-config.php:3866
+msgid "Copyright"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2185, thegov/core/includes/redux/redux-config.php:3884
+msgid "Copyright Settings"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2194, thegov/core/includes/redux/redux-config.php:3890
+msgid "Editor"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2262
+msgid "Related Event"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2292, thegov/core/includes/redux/redux-config.php:5968, thegov/core/includes/redux/redux-config.php:6233, thegov/single-event.php:186, thegov/single-location.php:170
+msgid "Recent Events"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2348
+msgid "Display items carousel for this events post"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2366
+msgid "Related Location"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2396
+msgid "Recent Locations"
+msgstr ""
+
+#: thegov/core/includes/metabox/metabox-config.php:2451
+msgid "Display items carousel for this Locations post"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:120
+msgid "General"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:127
+msgid "Use minify css/js files"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:128
+msgid "Recommended for site load speed."
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:133
+msgid "Preloader Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:139
+msgid "Preloader On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:145
+msgid "Preloader Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:146
+msgid "Set Preloader Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:154
+msgid "Preloader Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:167
+msgid "Search Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:173
+msgid "Choose your search style."
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:176
+msgid "Alternative"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:188
+msgid "Scroll Up Button Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:194
+msgid "Button On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:222, thegov/core/includes/redux/redux-config.php:229, thegov/core/includes/redux/redux-config.php:238
+msgid "Custom JS"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:230
+msgid "Paste your JS code here."
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:239
+msgid "Code to be added inside HEAD tag"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:336
+msgid "Enable Mobile Menu Logo Height"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:344
+msgid "Set Mobile Menu Logo Height"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:363
+msgid "Header default preset"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:367
+msgid ""
+"Please choose preset to use this in all Pages.\n"
+"                    You also can choose for every page your custom header present in page's option select(page metabox)."
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:373
+msgid "Custom Preset"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:383, thegov/core/includes/redux/redux-config.php:431, thegov/core/includes/redux/redux-config.php:2724, thegov/core/includes/redux/redux-config.php:2759, thegov/core/includes/redux/redux-config.php:3058, thegov/core/includes/redux/redux-config.php:3088, thegov/core/includes/redux/redux-config.php:3130, thegov/core/includes/redux/redux-config.php:3152
+msgid "HTML 1"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:384, thegov/core/includes/redux/redux-config.php:432, thegov/core/includes/redux/redux-config.php:2725, thegov/core/includes/redux/redux-config.php:2760, thegov/core/includes/redux/redux-config.php:3059, thegov/core/includes/redux/redux-config.php:3089, thegov/core/includes/redux/redux-config.php:3131, thegov/core/includes/redux/redux-config.php:3153
+msgid "HTML 2"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:385, thegov/core/includes/redux/redux-config.php:433, thegov/core/includes/redux/redux-config.php:2726, thegov/core/includes/redux/redux-config.php:2761, thegov/core/includes/redux/redux-config.php:3060, thegov/core/includes/redux/redux-config.php:3090, thegov/core/includes/redux/redux-config.php:3132, thegov/core/includes/redux/redux-config.php:3154
+msgid "HTML 3"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:386, thegov/core/includes/redux/redux-config.php:434, thegov/core/includes/redux/redux-config.php:2727, thegov/core/includes/redux/redux-config.php:2762, thegov/core/includes/redux/redux-config.php:3061, thegov/core/includes/redux/redux-config.php:3091, thegov/core/includes/redux/redux-config.php:3133, thegov/core/includes/redux/redux-config.php:3155
+msgid "HTML 4"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:387, thegov/core/includes/redux/redux-config.php:435, thegov/core/includes/redux/redux-config.php:2728, thegov/core/includes/redux/redux-config.php:2763, thegov/core/includes/redux/redux-config.php:3062, thegov/core/includes/redux/redux-config.php:3092, thegov/core/includes/redux/redux-config.php:3134, thegov/core/includes/redux/redux-config.php:3156
+msgid "HTML 5"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:388, thegov/core/includes/redux/redux-config.php:436, thegov/core/includes/redux/redux-config.php:2729, thegov/core/includes/redux/redux-config.php:2764, thegov/core/includes/redux/redux-config.php:3063, thegov/core/includes/redux/redux-config.php:3093, thegov/core/includes/redux/redux-config.php:3135, thegov/core/includes/redux/redux-config.php:3157
+msgid "HTML 6"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:389, thegov/core/includes/redux/redux-config.php:437
+msgid "HTML 7"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:390, thegov/core/includes/redux/redux-config.php:438
+msgid "HTML 8"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:391, thegov/core/includes/redux/redux-config.php:439, thegov/core/includes/redux/redux-config.php:2731, thegov/core/includes/redux/redux-config.php:2766, thegov/core/includes/redux/redux-config.php:3064, thegov/core/includes/redux/redux-config.php:3094, thegov/core/includes/redux/redux-config.php:3136, thegov/core/includes/redux/redux-config.php:3158
+msgid "WPML"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:392, thegov/core/includes/redux/redux-config.php:393, thegov/core/includes/redux/redux-config.php:394, thegov/core/includes/redux/redux-config.php:395, thegov/core/includes/redux/redux-config.php:396, thegov/core/includes/redux/redux-config.php:397, thegov/core/includes/redux/redux-config.php:440, thegov/core/includes/redux/redux-config.php:441, thegov/core/includes/redux/redux-config.php:442, thegov/core/includes/redux/redux-config.php:443, thegov/core/includes/redux/redux-config.php:444, thegov/core/includes/redux/redux-config.php:445, thegov/core/includes/redux/redux-config.php:2732, thegov/core/includes/redux/redux-config.php:2733, thegov/core/includes/redux/redux-config.php:2734, thegov/core/includes/redux/redux-config.php:2735, thegov/core/includes/redux/redux-config.php:2736, thegov/core/includes/redux/redux-config.php:2737, thegov/core/includes/redux/redux-config.php:2767, thegov/core/includes/redux/redux-config.php:2768, thegov/core/includes/redux/redux-config.php:2769, thegov/core/includes/redux/redux-config.php:2770, thegov/core/includes/redux/redux-config.php:2771, thegov/core/includes/redux/redux-config.php:2772
+msgid "|"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:398, thegov/core/includes/redux/redux-config.php:446, thegov/core/includes/redux/redux-config.php:2744, thegov/core/includes/redux/redux-config.php:2775, thegov/core/includes/redux/redux-config.php:3067, thegov/core/includes/redux/redux-config.php:3097, thegov/core/includes/redux/redux-config.php:3139, thegov/core/includes/redux/redux-config.php:3161
+msgid "Spacer 3"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:399, thegov/core/includes/redux/redux-config.php:447, thegov/core/includes/redux/redux-config.php:2745, thegov/core/includes/redux/redux-config.php:2776, thegov/core/includes/redux/redux-config.php:3068, thegov/core/includes/redux/redux-config.php:3098, thegov/core/includes/redux/redux-config.php:3140, thegov/core/includes/redux/redux-config.php:3162
+msgid "Spacer 4"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:400, thegov/core/includes/redux/redux-config.php:448, thegov/core/includes/redux/redux-config.php:2746, thegov/core/includes/redux/redux-config.php:2777, thegov/core/includes/redux/redux-config.php:3069, thegov/core/includes/redux/redux-config.php:3099, thegov/core/includes/redux/redux-config.php:3141, thegov/core/includes/redux/redux-config.php:3163
+msgid "Spacer 5"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:401, thegov/core/includes/redux/redux-config.php:449, thegov/core/includes/redux/redux-config.php:2747, thegov/core/includes/redux/redux-config.php:2778, thegov/core/includes/redux/redux-config.php:3070, thegov/core/includes/redux/redux-config.php:3100, thegov/core/includes/redux/redux-config.php:3142, thegov/core/includes/redux/redux-config.php:3164
+msgid "Spacer 6"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:402, thegov/core/includes/redux/redux-config.php:450
+msgid "Spacer 7"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:403, thegov/core/includes/redux/redux-config.php:451
+msgid "Spacer 8"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:404, thegov/core/includes/redux/redux-config.php:405, thegov/core/includes/redux/redux-config.php:452, thegov/core/includes/redux/redux-config.php:453
+msgid "Button"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:406, thegov/core/includes/redux/redux-config.php:454, thegov/core/includes/redux/redux-config.php:2739, thegov/core/includes/redux/redux-config.php:2780, thegov/core/includes/redux/redux-config.php:3072, thegov/core/includes/redux/redux-config.php:3102, thegov/core/includes/redux/redux-config.php:6658
+msgid "Cart"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:407, thegov/core/includes/redux/redux-config.php:455, thegov/core/includes/redux/redux-config.php:2740, thegov/core/includes/redux/redux-config.php:2781, thegov/core/includes/redux/redux-config.php:3073, thegov/core/includes/redux/redux-config.php:3103, thegov/templates/header/section-header.php:1493
+msgid "Login"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:408, thegov/core/includes/redux/redux-config.php:456, thegov/core/includes/redux/redux-config.php:2741, thegov/core/includes/redux/redux-config.php:2782, thegov/core/includes/redux/redux-config.php:3074, thegov/core/includes/redux/redux-config.php:3104
+msgid "Wishlist"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:415, thegov/core/includes/redux/redux-config.php:464, thegov/core/includes/redux/redux-config.php:2743, thegov/core/includes/redux/redux-config.php:2774, thegov/core/includes/redux/redux-config.php:3066, thegov/core/includes/redux/redux-config.php:3096, thegov/core/includes/redux/redux-config.php:3138, thegov/core/includes/redux/redux-config.php:3160
+msgid "Spacer 2"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:419, thegov/core/includes/redux/redux-config.php:468, thegov/core/includes/redux/redux-config.php:2754, thegov/core/includes/redux/redux-config.php:2789, thegov/core/includes/redux/redux-config.php:3077, thegov/core/includes/redux/redux-config.php:3107, thegov/core/includes/redux/redux-config.php:3146, thegov/core/includes/redux/redux-config.php:3168, thegov/core/includes/redux/redux-config.php:5640
+msgid "Menu"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:422, thegov/core/includes/redux/redux-config.php:471, thegov/core/includes/redux/redux-config.php:2730, thegov/core/includes/redux/redux-config.php:2765, thegov/core/includes/redux/redux-config.php:3083, thegov/core/includes/redux/redux-config.php:3113, thegov/core/includes/redux/redux-config.php:3147, thegov/core/includes/redux/redux-config.php:3169, thegov/plugins/events-manager/templates/events-search.php:26, thegov/searchform.php:15, thegov/templates/header/section-page_title.php:183
+msgid "Search"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:423, thegov/core/includes/redux/redux-config.php:472, thegov/core/includes/redux/redux-config.php:2742, thegov/core/includes/redux/redux-config.php:2773, thegov/core/includes/redux/redux-config.php:3065, thegov/core/includes/redux/redux-config.php:3095, thegov/core/includes/redux/redux-config.php:3137, thegov/core/includes/redux/redux-config.php:3159
+msgid "Spacer 1"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:484
+msgid "Header Spacer 1 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:494
+msgid "Header Spacer 2 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:504
+msgid "Header Spacer 3 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:514
+msgid "Header Spacer 4 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:524
+msgid "Header Spacer 5 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:534
+msgid "Header Spacer 6 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:544
+msgid "Header Spacer 7 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:554
+msgid "Header Spacer 8 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:562
+msgid "Customize Search"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:568, thegov/core/includes/redux/redux-config.php:628, thegov/core/includes/redux/redux-config.php:1602, thegov/core/includes/redux/redux-config.php:1630
+msgid "Icon Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:580, thegov/core/includes/redux/redux-config.php:640
+msgid "Hover Icon Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:592
+msgid "Customize Sticky Search"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:598, thegov/core/includes/redux/redux-config.php:658
+msgid "Sticky Icon Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:610, thegov/core/includes/redux/redux-config.php:670
+msgid "Sticky Hover Icon Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:622
+msgid "Customize cart"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:652
+msgid "Customize Sticky cart"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:684, thegov/core/includes/redux/redux-config.php:751, thegov/core/includes/redux/redux-config.php:764, thegov/core/includes/redux/redux-config.php:831, thegov/core/includes/redux/redux-config.php:845, thegov/core/includes/redux/redux-config.php:912, thegov/core/includes/redux/redux-config.php:925, thegov/core/includes/redux/redux-config.php:992, thegov/core/includes/redux/redux-config.php:1005, thegov/core/includes/redux/redux-config.php:1072, thegov/core/includes/redux/redux-config.php:1085, thegov/core/includes/redux/redux-config.php:1150
+msgid "Delimiter Height"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:694, thegov/core/includes/redux/redux-config.php:774, thegov/core/includes/redux/redux-config.php:855, thegov/core/includes/redux/redux-config.php:935, thegov/core/includes/redux/redux-config.php:1015, thegov/core/includes/redux/redux-config.php:1095
+msgid "Delimiter Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:702, thegov/core/includes/redux/redux-config.php:735, thegov/core/includes/redux/redux-config.php:782, thegov/core/includes/redux/redux-config.php:815, thegov/core/includes/redux/redux-config.php:863, thegov/core/includes/redux/redux-config.php:896, thegov/core/includes/redux/redux-config.php:943, thegov/core/includes/redux/redux-config.php:976, thegov/core/includes/redux/redux-config.php:1023, thegov/core/includes/redux/redux-config.php:1056, thegov/core/includes/redux/redux-config.php:1103, thegov/core/includes/redux/redux-config.php:1136
+msgid "Delimiter Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:720, thegov/core/includes/redux/redux-config.php:800, thegov/core/includes/redux/redux-config.php:881, thegov/core/includes/redux/redux-config.php:961, thegov/core/includes/redux/redux-config.php:1041, thegov/core/includes/redux/redux-config.php:1121
+msgid "Delimiter Spacing"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:729, thegov/core/includes/redux/redux-config.php:809, thegov/core/includes/redux/redux-config.php:890, thegov/core/includes/redux/redux-config.php:970, thegov/core/includes/redux/redux-config.php:1050, thegov/core/includes/redux/redux-config.php:1130
+msgid "Customize Sticky Delimiter"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1161, thegov/core/includes/redux/redux-config.php:1354
+msgid "Button Text"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1162, thegov/core/includes/redux/redux-config.php:1355
+msgid "Get Ticket"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1178, thegov/core/includes/redux/redux-config.php:1371
+msgid "Button Size"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1180, thegov/core/includes/redux/redux-config.php:1373
+msgid "Small"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1181, thegov/core/includes/redux/redux-config.php:1374
+msgid "Medium"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1182, thegov/core/includes/redux/redux-config.php:1375
+msgid "Large"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1183, thegov/core/includes/redux/redux-config.php:1376
+msgid "Extra Large"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1191, thegov/core/includes/redux/redux-config.php:1383
+msgid "Button Border Radius"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1193, thegov/core/includes/redux/redux-config.php:1385
+msgid "Value in pixels."
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1198, thegov/core/includes/redux/redux-config.php:1390
+msgid "Customize Button"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1216, thegov/core/includes/redux/redux-config.php:1408
+msgid "Hover Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1240, thegov/core/includes/redux/redux-config.php:1432
+msgid "Hover Background Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1264, thegov/core/includes/redux/redux-config.php:1456
+msgid "Hover Border Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1276, thegov/core/includes/redux/redux-config.php:1468
+msgid "Customize Sticky Button"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1282, thegov/core/includes/redux/redux-config.php:1474
+msgid "Sticky Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1294, thegov/core/includes/redux/redux-config.php:1486
+msgid "Sticky Hover Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1306, thegov/core/includes/redux/redux-config.php:1498
+msgid "Sticky Background Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1318, thegov/core/includes/redux/redux-config.php:1510
+msgid "Sticky Hover Background Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1330, thegov/core/includes/redux/redux-config.php:1522
+msgid "Sticky Border Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1342, thegov/core/includes/redux/redux-config.php:1534
+msgid "Sticky Hover Border Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1547, thegov/core/includes/redux/redux-config.php:2826, thegov/core/includes/redux/redux-config.php:3180
+msgid "HTML Element 1 Editor"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1554, thegov/core/includes/redux/redux-config.php:2834, thegov/core/includes/redux/redux-config.php:3190
+msgid "HTML Element 2 Editor"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1561, thegov/core/includes/redux/redux-config.php:2842, thegov/core/includes/redux/redux-config.php:3200
+msgid "HTML Element 3 Editor"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1568, thegov/core/includes/redux/redux-config.php:2850, thegov/core/includes/redux/redux-config.php:3210
+msgid "HTML Element 4 Editor"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1574, thegov/core/includes/redux/redux-config.php:2858, thegov/core/includes/redux/redux-config.php:3220
+msgid "HTML Element 5 Editor"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1581, thegov/core/includes/redux/redux-config.php:2866, thegov/core/includes/redux/redux-config.php:3230
+msgid "HTML Element 6 Editor"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1588
+msgid "HTML Element 7 Editor"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1595
+msgid "HTML Element 8 Editor"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1613, thegov/core/includes/redux/redux-config.php:1644
+msgid "Background Icon"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1624
+msgid "Customize Sticky Icon"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1658
+msgid "Header Top Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1664
+msgid "Full Width Header"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1665, thegov/core/includes/redux/redux-config.php:1776, thegov/core/includes/redux/redux-config.php:1890
+msgid "Set header content in full width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1671, thegov/core/includes/redux/redux-config.php:1782, thegov/core/includes/redux/redux-config.php:1896, thegov/core/includes/redux/redux-config.php:2804
+msgid "Customize Max Width Container"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1672, thegov/core/includes/redux/redux-config.php:1783, thegov/core/includes/redux/redux-config.php:1897, thegov/core/includes/redux/redux-config.php:2805
+msgid "Set max width container"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1693
+msgid "Header Top Height"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1701
+msgid "Header Top Background Image"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1706
+msgid "Header Top Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1717
+msgid "Header Top Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1718
+msgid "Set Top header text color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1729
+msgid "Set Header Top Bottom Border"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1737
+msgid "Header Top Border Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1750
+msgid "Header Top Border Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1769
+msgid "Header Middle Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1775
+msgid "Full Width Middle Header"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1804
+msgid "Header Middle Height"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1814
+msgid "Header Middle Background Image"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1819
+msgid "Header Middle Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1830
+msgid "Header Middle Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1831
+msgid "Set Middle header text color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1842
+msgid "Set Header Middle Bottom Border"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1850
+msgid "Header Middle Border Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1863
+msgid "Header Middle Border Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1883
+msgid "Header Bottom Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1889
+msgid "Full Width Bottom Header"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1918
+msgid "Header Bottom Height"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1928
+msgid "Header Bottom Background Image"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1933
+msgid "Header Bottom Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1944
+msgid "Header Bottom Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1945
+msgid "Set Bottom header text color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1956
+msgid "Set Header Bottom Border"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1964
+msgid "Header Bottom Border Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1977
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:1996
+msgid "Top Left Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2002, thegov/core/includes/redux/redux-config.php:2045, thegov/core/includes/redux/redux-config.php:2088, thegov/core/includes/redux/redux-config.php:2131, thegov/core/includes/redux/redux-config.php:2174, thegov/core/includes/redux/redux-config.php:2217, thegov/core/includes/redux/redux-config.php:2260, thegov/core/includes/redux/redux-config.php:2303, thegov/core/includes/redux/redux-config.php:2346, thegov/core/includes/redux/redux-config.php:2389, thegov/core/includes/redux/redux-config.php:2432, thegov/core/includes/redux/redux-config.php:2475
+msgid "Horizontal Align"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2013, thegov/core/includes/redux/redux-config.php:2056, thegov/core/includes/redux/redux-config.php:2099, thegov/core/includes/redux/redux-config.php:2142, thegov/core/includes/redux/redux-config.php:2185, thegov/core/includes/redux/redux-config.php:2228, thegov/core/includes/redux/redux-config.php:2271, thegov/core/includes/redux/redux-config.php:2314, thegov/core/includes/redux/redux-config.php:2357, thegov/core/includes/redux/redux-config.php:2400, thegov/core/includes/redux/redux-config.php:2443, thegov/core/includes/redux/redux-config.php:2486
+msgid "Vertical Align"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2016, thegov/core/includes/redux/redux-config.php:2059, thegov/core/includes/redux/redux-config.php:2102, thegov/core/includes/redux/redux-config.php:2145, thegov/core/includes/redux/redux-config.php:2188, thegov/core/includes/redux/redux-config.php:2231, thegov/core/includes/redux/redux-config.php:2274, thegov/core/includes/redux/redux-config.php:2317, thegov/core/includes/redux/redux-config.php:2360, thegov/core/includes/redux/redux-config.php:2403, thegov/core/includes/redux/redux-config.php:2446, thegov/core/includes/redux/redux-config.php:2489
+msgid "Middle"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2024, thegov/core/includes/redux/redux-config.php:2067, thegov/core/includes/redux/redux-config.php:2110, thegov/core/includes/redux/redux-config.php:2153, thegov/core/includes/redux/redux-config.php:2196, thegov/core/includes/redux/redux-config.php:2239, thegov/core/includes/redux/redux-config.php:2282, thegov/core/includes/redux/redux-config.php:2325, thegov/core/includes/redux/redux-config.php:2368, thegov/core/includes/redux/redux-config.php:2411, thegov/core/includes/redux/redux-config.php:2454, thegov/core/includes/redux/redux-config.php:2497
+msgid "Display"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2026, thegov/core/includes/redux/redux-config.php:2069, thegov/core/includes/redux/redux-config.php:2112, thegov/core/includes/redux/redux-config.php:2155, thegov/core/includes/redux/redux-config.php:2198, thegov/core/includes/redux/redux-config.php:2241, thegov/core/includes/redux/redux-config.php:2284, thegov/core/includes/redux/redux-config.php:2327, thegov/core/includes/redux/redux-config.php:2370, thegov/core/includes/redux/redux-config.php:2413, thegov/core/includes/redux/redux-config.php:2456, thegov/core/includes/redux/redux-config.php:2499
+msgid "Normal"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2027, thegov/core/includes/redux/redux-config.php:2070, thegov/core/includes/redux/redux-config.php:2113, thegov/core/includes/redux/redux-config.php:2156, thegov/core/includes/redux/redux-config.php:2199, thegov/core/includes/redux/redux-config.php:2242, thegov/core/includes/redux/redux-config.php:2285, thegov/core/includes/redux/redux-config.php:2328, thegov/core/includes/redux/redux-config.php:2371, thegov/core/includes/redux/redux-config.php:2414, thegov/core/includes/redux/redux-config.php:2457, thegov/core/includes/redux/redux-config.php:2500
+msgid "Grow"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2039, thegov/core/includes/redux/redux-config.php:2082
+msgid "Top Center Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2125
+msgid "Top Right Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2168
+msgid "Middle Left Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2211, thegov/core/includes/redux/redux-config.php:2254, thegov/core/includes/redux/redux-config.php:2383
+msgid "Middle Center Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2297
+msgid "Middle Right Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2340
+msgid "Bottom Left Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2426
+msgid "Bottom Center Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2469
+msgid "Bottom Right Column Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2518
+msgid "Header Bottom Shadow"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2524
+msgid "Over content"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2525
+msgid "Set Header preset to display over content."
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2531
+msgid "Enable Lavalamp Marker"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2537
+msgid "Sub Menu Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2538, thegov/core/includes/redux/redux-config.php:2981
+msgid "Set sub menu background color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2549
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2550, thegov/core/includes/redux/redux-config.php:3007
+msgid "Set sub menu header text color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2557
+msgid "Sub Menu Bottom Border"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2565
+msgid "Sub Menu Border Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2578
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2592
+msgid "Mobile Header resolution breakpoint"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2609
+msgid "Header Sticky"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2622
+msgid "Sticky Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2629
+msgid "Sticky Header Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2630
+msgid "Set sticky header text color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2637
+msgid "Sticky Header Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2638
+msgid "Set sticky header background color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2651
+msgid "Sticky Header Height"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2661
+msgid "Choose your sticky style."
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2663
+msgid "Show when scroll"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2664
+msgid "Show when scroll up"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2671
+msgid "Bottom Border On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2679
+msgid "Bottom Border Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2692
+msgid "Bottom Border Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2706
+msgid "Bottom Shadow On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2712
+msgid "Custom Sticky Header "
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2718
+msgid "Sticky Header Order"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2719
+msgid "Organize the layout of the sticky header"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2797
+msgid "Full Width Sticky Header"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2875, thegov/core/includes/redux/redux-config.php:3241
+msgid "Spacer 1 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2886, thegov/core/includes/redux/redux-config.php:3256
+msgid "Spacer 2 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2897, thegov/core/includes/redux/redux-config.php:3271
+msgid "Spacer 3 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2908, thegov/core/includes/redux/redux-config.php:3286
+msgid "Spacer 4 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2919, thegov/core/includes/redux/redux-config.php:3301
+msgid "Spacer 5 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2930, thegov/core/includes/redux/redux-config.php:3316
+msgid "Spacer 6 Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2945
+msgid "Header Mobile"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2952
+msgid "Custom Mobile Header "
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2958
+msgid "Mobile Header Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2959
+msgid "Set mobile header background color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2971
+msgid "Mobile Header Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2972
+msgid "Set mobile header text color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2980
+msgid "Mobile Sub Menu Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2993
+msgid "Mobile Sub Menu Overlay"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:2994
+msgid "Set sub menu overlay color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3006
+msgid "Mobile Sub Menu Text Color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3017
+msgid "Mobile Height"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3030
+msgid "Mobile Over Content"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3036
+msgid "Mobile Sticky"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3042
+msgid "Mobile Sub Menu Position"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3052
+msgid "Mobile Header Order"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3053, thegov/core/includes/redux/redux-config.php:3125
+msgid "Organize the layout of the mobile header"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3124
+msgid "Mobile Drawer Content"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3335, thegov/core/includes/redux/redux-config.php:3635, thegov/core/includes/redux/redux-config.php:3871
+msgid "Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3342
+msgid "Page Title Switch"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3428, thegov/core/includes/redux/redux-config.php:3599
+msgid "Breadcrumbs On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3434, thegov/core/includes/redux/redux-config.php:4559
+msgid "Breadcrumbs Block On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3459, thegov/core/includes/redux/redux-config.php:4672
+msgid "Parallax Speed"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3477, thegov/core/includes/redux/redux-config.php:5516
+msgid "Typography"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3525
+msgid "Responsive"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3642
+msgid "Footer On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3683, thegov/core/includes/redux/redux-config.php:5081
+msgid "Page Select"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3709, thegov/core/includes/redux/redux-config.php:3738
+msgid "Columns Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3778
+msgid "Full Width On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3791
+msgid "Footer Styling"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3811
+msgid "Content Align"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3830
+msgid "Headings color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3837
+msgid "Content color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3851
+msgid "Border color"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3878
+msgid "Copyright On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3942, thegov/core/includes/redux/redux-config.php:4144
+msgid "Blog"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3948, thegov/core/includes/redux/redux-config.php:4414, thegov/templates/header/section-page_title.php:190
+msgid "Archive"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3958, thegov/core/includes/redux/redux-config.php:4424
+msgid "Archive Page Title Background Image"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3970
+msgid "Blog Archive Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3990
+msgid "Blog Archive Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:3997
+msgid "Blog Archive Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4008
+msgid "Blog Archive Sticky Sidebar On?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4015
+msgid "Blog Archive Sidebar Side Gap"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4034, thegov/core/includes/redux/redux-config.php:4474
+msgid "Columns in Archive"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4046, thegov/core/includes/redux/redux-config.php:4282, thegov/core/includes/redux/redux-config.php:5902, thegov/core/includes/redux/redux-config.php:6180
+msgid "Likes On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4052, thegov/core/includes/redux/redux-config.php:4294, thegov/core/includes/redux/redux-config.php:4797, thegov/core/includes/redux/redux-config.php:5914, thegov/core/includes/redux/redux-config.php:6192, thegov/core/includes/redux/redux-config.php:6622
+msgid "Share On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4058
+msgid "Hide Media?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4064
+msgid "Hide Title?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4070
+msgid "Hide Content?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4076
+msgid "Cut Off Text in Blog Listing"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4082
+msgid "Number of character to show after trim."
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4089
+msgid "Hide Read More Button?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4095, thegov/core/includes/redux/redux-config.php:4306, thegov/core/includes/redux/redux-config.php:4809, thegov/core/includes/redux/redux-config.php:5920, thegov/core/includes/redux/redux-config.php:6198
+msgid "Hide all post-meta?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4101, thegov/core/includes/redux/redux-config.php:4312, thegov/core/includes/redux/redux-config.php:5926, thegov/core/includes/redux/redux-config.php:6204
+msgid "Hide post-meta author?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4108, thegov/core/includes/redux/redux-config.php:4319, thegov/core/includes/redux/redux-config.php:5933, thegov/core/includes/redux/redux-config.php:6211
+msgid "Hide post-meta comments?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4115, thegov/core/includes/redux/redux-config.php:4326, thegov/core/includes/redux/redux-config.php:5940
+msgid "Hide post-meta categories?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4122, thegov/core/includes/redux/redux-config.php:4333, thegov/core/includes/redux/redux-config.php:5947, thegov/core/includes/redux/redux-config.php:6218
+msgid "Hide post-meta date?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4130, thegov/core/includes/redux/redux-config.php:4511, thegov/core/includes/redux/redux-config.php:4921, thegov/core/includes/redux/redux-config.php:5750, thegov/core/includes/redux/redux-config.php:6028, thegov/core/includes/redux/redux-config.php:6425
+msgid "Single"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4137
+msgid "Blog Post Title On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4143, thegov/core/includes/redux/redux-config.php:4934, thegov/core/includes/redux/redux-config.php:5763, thegov/core/includes/redux/redux-config.php:6041
+msgid "Single Page Title Text"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4153, thegov/core/includes/redux/redux-config.php:4908, thegov/core/includes/redux/redux-config.php:5773, thegov/core/includes/redux/redux-config.php:6051
+msgid "Single Page Title Background Image"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4165
+msgid "Blog Single Type"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4183, thegov/core/includes/redux/redux-config.php:5803, thegov/core/includes/redux/redux-config.php:6081
+msgid "Page Title Padding"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4210, thegov/core/includes/redux/redux-config.php:5813, thegov/core/includes/redux/redux-config.php:6091
+msgid "Apply Animation?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4217
+msgid "Blog Single Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4237
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4245
+msgid "Blog Single Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4256
+msgid "Blog Single Sticky Sidebar On?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4263
+msgid "Blog Single Sidebar Side Gap"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4288, thegov/core/includes/redux/redux-config.php:5908, thegov/core/includes/redux/redux-config.php:6186
+msgid "Views On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4300
+msgid "Author Info On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4340, thegov/core/includes/redux/redux-config.php:5954
+msgid "Hide tags?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4348, thegov/core/includes/redux/redux-config.php:5961, thegov/core/includes/redux/redux-config.php:6226, thegov/core/includes/redux/redux-config.php:6629
+msgid "Related"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4369, thegov/core/includes/redux/redux-config.php:5982, thegov/core/includes/redux/redux-config.php:6247
+msgid "Select Categories"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4398, thegov/core/includes/redux/redux-config.php:6012, thegov/core/includes/redux/redux-config.php:6277
+msgid "Display items in the carousel"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4408, thegov/templates/breadcrumbs.php:159, thegov/templates/breadcrumbs.php:167
+msgid "Portfolio"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4436
+msgid "Portfolio Archive Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4456
+msgid "Portfolio Archive Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4462
+msgid "Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4466
+msgid "25%"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4467
+msgid "33%"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4486
+msgid "Portfolio Slug"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4492
+msgid "Title On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4498
+msgid "Content On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4518, thegov/core/includes/redux/redux-config.php:6432
+msgid "Post Title Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4524, thegov/core/includes/redux/redux-config.php:6438
+msgid "Use Custom Post Title?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4530, thegov/core/includes/redux/redux-config.php:6444
+msgid "Custom Post Title"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4531, thegov/core/includes/redux/redux-config.php:4998, thegov/core/includes/redux/redux-config.php:6445
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4548, thegov/core/includes/redux/redux-config.php:6471
+msgid "Title Breadcrumbs Alignment"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4620
+msgid "Portfolio Single Type"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4632
+msgid "Content Alignment"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4649
+msgid "Portfolio Single Padding"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4713
+msgid "Portfolio Single Responsive Padding"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4727
+msgid "Portfolio Single Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4747
+msgid "Portfolio Single Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4754
+msgid "Portfolio Single Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4765
+msgid "Portfolio Single Sticky Sidebar On?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4772
+msgid "Portfolio Single Sidebar Side Gap"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4803
+msgid "Post-meta likes On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4815
+msgid "Post-meta author On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4822
+msgid "Post-meta comments On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4829
+msgid "Post-meta categories On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4836
+msgid "Post-meta date On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4851
+msgid "Related Posts On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4871
+msgid "Related Columns"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4892, thegov/core/includes/redux/redux-config.php:4935
+msgid "Team"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4899
+msgid "Team Slug"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4928
+msgid "Team Post Title On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4943
+msgid "Page 404"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4950
+msgid "404 Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4960
+msgid "Main Background"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4972
+msgid "Show Header?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4978
+msgid "Show Footer?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4984
+msgid "Show Page Title?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:4990
+msgid "Use Custom Page Title?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5178
+msgid "Sidebars"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5186
+msgid "Add Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5187
+msgid "Register Sidebars"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5193
+msgid "Sidebar Page Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5277
+msgid "Show Social Share on Pages On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5307
+msgid "Offset Top"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5352
+msgid "Add Custom Share?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5360
+msgid "Custom Share Icon 1"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5366
+msgid "Custom Share Link 1"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5373
+msgid "Custom Share Icon 2"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5379
+msgid "Custom Share Link 2"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5386
+msgid "Custom Share Icon 3"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5392
+msgid "Custom Share Link 3"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5399
+msgid "Custom Share Icon 4"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5405
+msgid "Custom Share Link 4"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5412
+msgid "Custom Share Icon 5"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5418
+msgid "Custom Share Link 5"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5425
+msgid "Custom Share Icon 6"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5431
+msgid "Custom Share Link 6"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5438
+msgid "Custom Share Icon 7"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5444
+msgid "Custom Share Link 7"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5451
+msgid "Custom Share Icon 8"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5457
+msgid "Custom Share Link 8"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5464
+msgid "Custom Share Icon 9"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5470
+msgid "Custom Share Link 9"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5477
+msgid "Custom Share Icon 10"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5483
+msgid "Custom Share Link 10"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5491
+msgid "Color Options"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5525
+msgid "Content Font"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5543
+msgid "Headings Main Settings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5581
+msgid "Main Content"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5592
+msgid "Menu Font"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5607
+msgid "Submenu Font"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5652
+msgid "H1"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5662
+msgid "H2"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5672
+msgid "H3"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5682
+msgid "H4"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5692
+msgid "H5"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5702
+msgid "H6"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5732
+msgid "Headings"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5742
+msgid "Event"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5757
+msgid "Events Post Title On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5764
+msgid "Events"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5785
+msgid "Events Single Type"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5838
+msgid "Events Single Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5858
+msgid "Events Single Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5865
+msgid "Events Single Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5876
+msgid "Events Single Sticky Sidebar On?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5883
+msgid "Events Single Sidebar Side Gap"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:5975, thegov/core/includes/redux/redux-config.php:6240
+msgid "Related Events"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6020, thegov/core/includes/redux/redux-config.php:6042
+msgid "Location"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6035
+msgid "Location Post Title On/Off"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6063
+msgid "Location Single Type"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6116
+msgid "Location Single Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6136
+msgid "Location Single Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6143
+msgid "Location Single Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6154
+msgid "Location Single Sticky Sidebar On?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6161
+msgid "Location Single Sidebar Side Gap"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6288, thegov/templates/header/section-page_title.php:188
+msgid "Shop"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6295
+msgid "Catalog"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6305
+msgid "Catalog Page Title Background Image"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6317
+msgid "Shop Catalog Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6337
+msgid "Shop Catalog Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6344
+msgid "Shop Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6381
+msgid "Shop Column"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6393
+msgid "Products per page"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6402
+msgid "Use Animation Shop?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6409
+msgid "Animation Style"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6411
+msgid "Fade In"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6412
+msgid "Slide Top"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6413
+msgid "Slide Bottom"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6414
+msgid "Slide Left"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6415
+msgid "Slide Right"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6416
+msgid "Zoom"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6462
+msgid "Breadcrumbs Display"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6536
+msgid "Enable Border Top?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6558
+msgid "Shop Single Sidebar Layout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6578
+msgid "Shop Single Sidebar"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6585
+msgid "Shop Single Sidebar Width"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6596
+msgid "Shop Single Sticky Sidebar On?"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6603
+msgid "Shop Single Sidebar Side Gap"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6636
+msgid "Related products column"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6648
+msgid "Related products per page"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6668
+msgid "Cart Page Title Background Image"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6681
+msgid "Checkout"
+msgstr ""
+
+#: thegov/core/includes/redux/redux-config.php:6691
+msgid "Checkout Page Title Background Image"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:334, thegov/core/tgm/wgl-tgm.php:58
+msgid "Install Required Plugins"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:335, thegov/core/tgm/wgl-tgm.php:59
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:337, thegov/core/tgm/wgl-tgm.php:60
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:340, thegov/core/tgm/wgl-tgm.php:61
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:341, thegov/core/tgm/wgl-tgm.php:62
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:345, thegov/core/tgm/wgl-tgm.php:63
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:349, thegov/core/tgm/wgl-tgm.php:68
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:353
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:357, thegov/core/tgm/wgl-tgm.php:65
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:361, thegov/core/tgm/wgl-tgm.php:66
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:365, thegov/core/tgm/wgl-tgm.php:70
+msgid "Begin installing plugins"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:369
+msgid "Begin updating plugins"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:373, thegov/core/tgm/wgl-tgm.php:71
+msgid "Begin activating plugins"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:377, thegov/core/tgm/wgl-tgm.php:72
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:378, thegov/core/tgm/class-tgm-plugin-activation.php:897, thegov/core/tgm/class-tgm-plugin-activation.php:2603, thegov/core/tgm/class-tgm-plugin-activation.php:3650
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:379, thegov/core/tgm/class-tgm-plugin-activation.php:3229, thegov/core/tgm/wgl-tgm.php:73
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:380, thegov/core/tgm/class-tgm-plugin-activation.php:3022
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:382
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:384
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:386
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:387
+msgid "Dismiss this notice"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:388
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:389
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:592
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:593
+msgid "Update Required"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:1004
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:1004, thegov/core/tgm/class-tgm-plugin-activation.php:1007
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:1007
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:1191, thegov/core/tgm/class-tgm-plugin-activation.php:3018
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2052
+msgid "TGMPA v%s"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2343
+msgid "Required"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2346
+msgid "Recommended"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2362
+msgid "WordPress Repository"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2365
+msgid "External Source"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2368
+msgid "Pre-Packaged"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2385
+msgid "Not Installed"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2389
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2391
+msgid "Active"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2397
+msgid "Required Update not Available"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2400
+msgid "Requires Update"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2403
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2412
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2458
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2462
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2466
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2470
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2552
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2560
+msgid "Installed version:"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2568
+msgid "Minimum required version:"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2580
+msgid "Available version:"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2603
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2617
+msgid "Plugin"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2618
+msgid "Source"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2619
+msgid "Type"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2624
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2673
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2678
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2684
+msgid "Activate %2$s"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2754
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2787
+msgid "Install"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2793
+msgid "Update"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2827
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2829
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2870
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2872
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:2978
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3004
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3228
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3568
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3571
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3573
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3577
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3579
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3579, thegov/core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Show Details"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3579, thegov/core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Hide Details"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3580
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3582
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3585
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3587
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3588
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: thegov/core/tgm/class-tgm-plugin-activation.php:3590
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:15
+msgid "Thegov Core"
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:24
+msgid "Elementor"
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:29
+msgid "Events Manager"
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:33
+msgid "Revolution Slider"
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:39
+msgid "WooCommerce"
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:43
+msgid "Contact Form 7"
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:64
+msgid "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:67
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:69
+msgid "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr ""
+
+#: thegov/core/tgm/wgl-tgm.php:74
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: thegov/functions.php:168
+msgid "Dropcap"
+msgstr ""
+
+#: thegov/functions.php:171
+msgid "Dropcap Colored"
+msgstr ""
+
+#: thegov/functions.php:177
+msgid "Dropcap Dark"
+msgstr ""
+
+#: thegov/functions.php:185
+msgid "Highlighter"
+msgstr ""
+
+#: thegov/functions.php:191
+msgid "Double Heading Font"
+msgstr ""
+
+#: thegov/functions.php:196
+msgid "Font Weight"
+msgstr ""
+
+#: thegov/functions.php:199
+msgid "Lightest (100)"
+msgstr ""
+
+#: thegov/functions.php:200
+msgid "Lighter (200)"
+msgstr ""
+
+#: thegov/functions.php:201
+msgid "Light (300)"
+msgstr ""
+
+#: thegov/functions.php:202
+msgid "Normal (400)"
+msgstr ""
+
+#: thegov/functions.php:203
+msgid "Medium (500)"
+msgstr ""
+
+#: thegov/functions.php:204
+msgid "Semi-Bold (600)"
+msgstr ""
+
+#: thegov/functions.php:205
+msgid "Bold (700)"
+msgstr ""
+
+#: thegov/functions.php:206
+msgid "Bolder (800)"
+msgstr ""
+
+#: thegov/functions.php:207
+msgid "Extra Bold (900)"
+msgstr ""
+
+#: thegov/functions.php:211
+msgid "List Style"
+msgstr ""
+
+#: thegov/functions.php:213
+msgid "Check"
+msgstr ""
+
+#: thegov/functions.php:214
+msgid "Plus"
+msgstr ""
+
+#: thegov/functions.php:215
+msgid "Dash"
+msgstr ""
+
+#: thegov/functions.php:216
+msgid "Slash"
+msgstr ""
+
+#: thegov/functions.php:217
+msgid "No List Style"
+msgstr ""
+
+#: thegov/image.php:85
+msgid "Pages:"
+msgstr ""
+
+#: thegov/page.php:30, thegov/template-full-width.php:17
+msgid "Read more!"
+msgstr ""
+
+#: thegov/page.php:31, thegov/template-full-width.php:18, thegov/templates/post/post-hero.php:187, thegov/templates/post/post-hero.php:264, thegov/templates/post/post-standard.php:196, thegov/templates/post/single/post-1.php:49, thegov/templates/post/single/post-2.php:49, thegov/templates/post/single/post-3.php:34
+msgid "Pages"
+msgstr ""
+
+#: thegov/search.php:28
+msgid "Search Results for: %s"
+msgstr ""
+
+#: thegov/search.php:51
+msgid "Learn More"
+msgstr ""
+
+#: thegov/search.php:66
+msgid "Nothing Found"
+msgstr ""
+
+#: thegov/search.php:71
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: thegov/search.php:73
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: thegov/searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: thegov/single-event.php:198, thegov/single-location.php:182, thegov/single.php:195, thegov/templates/post/post-hero.php:43, thegov/templates/post/post-medium_img.php:44, thegov/templates/post/post-standard.php:43
+msgid "Read More"
+msgstr ""
+
+#: thegov/template-full-width.php:3
+msgid "Full Width Page"
+msgstr ""
+
+#: thegov/templates/breadcrumbs.php:41
+msgid "Home"
+msgstr ""
+
+#: thegov/templates/breadcrumbs.php:42
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: thegov/templates/breadcrumbs.php:43
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: thegov/templates/breadcrumbs.php:44
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: thegov/templates/breadcrumbs.php:45
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: thegov/templates/breadcrumbs.php:46
+msgid "Error 404"
+msgstr ""
+
+#: thegov/templates/breadcrumbs.php:47
+msgid "Page %s"
+msgstr ""
+
+#: thegov/templates/breadcrumbs.php:48
+msgid "Comment Page %s"
+msgstr ""
+
+#: thegov/templates/header/section-header.php:1350
+msgid "Type To Search"
+msgstr ""
+
+#: thegov/templates/header/section-header.php:1491
+msgid "Logout"
+msgstr ""
+
+#: thegov/templates/header/section-header.php:1611
+msgid "Click to open Shopping Cart"
+msgstr ""
+
+#: thegov/templates/header/section-page_title.php:177
+msgid " Tag"
+msgstr ""
+
+#: thegov/templates/header/section-page_title.php:181
+msgid "Author:"
+msgstr ""
+
+#: thegov/templates/header/section-page_title.php:185
+msgid "Error Page"
+msgstr ""
+
+#: thegov/templates/header/section-page_title.php:233
+msgid "No Posts"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:23, thegov/woocommerce/cart/cart.php:56
+msgid "Product"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:25, thegov/woocommerce/cart/cart.php:76
+msgid "Price"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:26, thegov/woocommerce/cart/cart.php:82, thegov/woocommerce/global/quantity-input.php:24
+msgid "Quantity"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:27, thegov/woocommerce/cart/cart.php:104
+msgid "Total"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:116
+msgid "Remove this item"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:137
+msgid "Coupon:"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:137
+msgid "Coupon code"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:137, thegov/woocommerce/cart/cart.php:137
+msgid "Apply coupon"
+msgstr ""
+
+#: thegov/woocommerce/cart/cart.php:142, thegov/woocommerce/cart/cart.php:142
+msgid "Update cart"
+msgstr ""
+
+#: thegov/woocommerce/content-widget-reviews.php:46
+msgid "by %s"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: thegov/woocommerce/global/quantity-input.php:24
+msgid "%s quantity"
+msgstr ""
+
+#: thegov/woocommerce/global/quantity-input.php:40
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: thegov/woocommerce/single-product/related.php:25
+msgid "Related products"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:209
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:230
+msgid "verified owner"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:248
+msgid "Add a review"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:248
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:249
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:257
+msgid "Email"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:259
+msgid "Submit"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:270
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:274
+msgid "Your rating"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:275
+msgid "Rate&hellip;"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:276
+msgid "Perfect"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:277
+msgid "Good"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:278
+msgid "Average"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:279
+msgid "Not that bad"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:280
+msgid "Very poor"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:284
+msgid "Your review"
+msgstr ""
+
+#: thegov/woocommerce/woocommerce-init.php:580
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""

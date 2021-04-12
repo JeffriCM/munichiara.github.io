@@ -1,0 +1,67 @@
+/* ==================== ##Events Styles ==================== */
+
+/* ==================== ↓ ##Content Styles ↓ ==================== */
+.wgl-events-list .wgl-events__list .event-location,
+.wgl-events .events-style-grid .events-post .events-post-hero_wrapper:hover .events-post_location,
+.wgl-events .events-style-grid .events-post .events-post-hero_wrapper .events-post_location{
+	color: $content_color;
+}
+
+div.wgl-em-search_wrapper div.em-search-options,
+div.wgl-em-search_wrapper div.em-search-field label span{
+	font-family: $content_font_family;
+}
+
+/* ==================== ↑ ##Content Styles ↑ ==================== */
+
+/* ===================== ↓ ##Header Styles ↓ ====================== */
+.em-pagination > *,
+.event-single_wrapper a:hover,
+.wgl-events .events-style-grid .format-standard.format-no_featured .events-post_title a,
+.wgl-events .events-style-grid .events-post .events-post-hero_wrapper:hover .events-post_title a,
+.wgl_module_title.item_title .carousel_arrows span[class*="slick_arrow"], 
+.wgl-filter_wrapper .carousel_arrows span[class*="slick_arrow"]{
+	color: $header_font_color;
+}
+
+.events-post_meta-categories span a:hover,
+div.wgl-em-search_wrapper div.em-search-main .em-search-submit,
+.event-categories li a,
+.wgl-events .events-style-grid .events-post .events-post-hero_wrapper .events-post_cats a:hover{
+	background: $header_font_color;
+}
+
+.wgl-events .wgl-filter_wrapper .isotope-filter a, 
+.wgl-events .wgl-filter_wrapper .carousel-filter a,
+div.wgl-em-search_wrapper div.em-search-main .em-search-submit,
+.wgl-events-list,
+.wgl-events-list .wgl-events__list .wgl-events__date span,
+.event-categories li a,
+.wgl-events .events-post_location,
+.wgl-events .meta-wrapper{
+	font-family: $header_font_family;
+}
+/* ==================== ↑ ##Header Styles ↑ ==================== */
+
+/* ==================== ↓ ##Theme Color ↓ ==================== */
+.em-pagination a.page-numbers:hover,
+.em-pagination a.page-numbers:hover:before,
+div.wgl-em-search_wrapper div.em-search-options,
+div.wgl-em-search_wrapper div.em-search-text label:before,
+div.wgl-em-search_wrapper div.em-search-geo label:before,
+.wgl-events .events-style-grid .events-post .events-post-hero_wrapper .events-post_title a:hover,
+.wgl_module_title.item_title .carousel_arrows span[class*="slick_arrow"]:hover, 
+.wgl-filter_wrapper .carousel_arrows span[class*="slick_arrow"]:hover{
+	color: $theme_color;
+}
+
+.event-single_wrapper,
+.em-pagination .page-numbers.current,
+.events-post_meta-categories span a,
+div.wgl-em-search_wrapper div.em-search-main .em-search-submit:hover,
+.wgl-events-list .wgl-events__list .wgl-events__wrapper.featured_image:hover .wgl-events__content .event-categories a,
+.wgl-events-list .wgl-events__list .wgl-events__date:after,
+.wgl-events .events-style-grid .events-post .events-post-hero_wrapper .events-post_cats a{
+	background: $theme_color;
+}
+/* ==================== ↑ ##Theme Color ↑ ==================== */
