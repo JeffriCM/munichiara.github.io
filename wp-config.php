@@ -1,4 +1,5 @@
 <?php
+define( 'WP_MEMORY_LIMIT', '3000M' );
 /**
  * The base configuration for WordPress
  *
@@ -78,6 +79,7 @@ $table_prefix = 'wp_';
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
+define( 'WP_MEMORY_LIMIT', '3000M' );
 
 /* That's all, stop editing! Happy publishing. */
 
